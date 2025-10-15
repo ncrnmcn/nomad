@@ -1,8 +1,7 @@
 ---
-title: Welcome to Quartz
+title: How to publish Obsidian notes with Quartz on GitHub Pages
+draft: false
+tags:
+  -
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
-
-Test.
+Fresh!
