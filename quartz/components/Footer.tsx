@@ -13,10 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>
-          Link to
-          <a href="https://okkultra.com">somwhere else</a>
-        </p>
+        <p>⚠ UNSYNCHRONIZED NODE DETECTED xtsc://lowerdeck/nomad/ψ-47@blackframe.node</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
