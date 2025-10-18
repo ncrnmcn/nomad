@@ -7,7 +7,9 @@ tags:
   -
 ---
 
-Ich weiß nicht wie lange ich diesen Kannal offen halten kann.
+Ich weiß nicht wie lange ich diesen Kanal offen halten kann.
+
+
 
 [[Lost Files]]
 
