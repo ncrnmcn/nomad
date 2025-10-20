@@ -47,7 +47,7 @@ const config: QuartzConfig = {
           dark: "#819429", //header text
           secondary: "#819429", // link color
           tertiary: "#819429", // hover
-          highlight: "rgba(49, 56, 15, 1)", // internal link back
+          highlight: "rgba(49, 56, 15, 0.5)", // internal link back
           textHighlight: "#31380F", // mark high
         },
       },
