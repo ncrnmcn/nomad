@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>C5.B0.C2 /n</p>
+        <p>UNSYNCHRONIZED NODE /nC5.B0.C2</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
