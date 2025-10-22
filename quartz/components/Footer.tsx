@@ -13,7 +13,7 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p>⚠ UNSYNCHRONIZED NODE DETECTED</p>
+        <p>C5.B0.C2 /n</p>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>

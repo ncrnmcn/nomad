@@ -10,32 +10,25 @@ dg-home: true
 ---
 
 [BOOT] initializing node... ok  
-[AUTH] user: nomad  
+[AUTH] user: nomad
 [INFO] transmission window open (duration unknown)
 
-hier ist nomad.  
-ich weiss nicht wo(?),  
-ob ihr mich hoeren(?) koennt  
-und wie lange ich diesen kanal offen halten kann.
+nomad hier_
+ich weiss nicht wo ich bin_
+und wie lange ich diesen kanal offen halten kann_
 
-ihr solltet zugriff auf [[odyssey_IX_crew.log]] haben.
-{readonly=false}
+//set.persistence=true
+//readonly=false
 
-{persistenz=1}
+ihr solltet nun zugriff auf [[odyssey_IX_crew.log]] haben_
 
-
-ich habe etwas in den [[lost_files]] gefunden… zugriff?
-
-alles weitere 
+und ich habe etwas in diesen [[lost_files]] gefunden… zugriff_
 
 warning: signal instability detected  
 buffer overflow at /outbound/attempt_003
 
-...aber ich werde versuch euch zu ..
+das system…gegen den zugriff_
+aber…werde versuchen…zu erreichen
 
 [END OF TRANSMISSION]
-
-[RECONNECT ATTEMPT: 01/∞]  
-SIGNAL = [██░░░░░░░░░░░░░░░░░░░░░] 7%  
-
-// transmission terminated //
+[RECONNECT ATTEMPT: 01/∞] 
