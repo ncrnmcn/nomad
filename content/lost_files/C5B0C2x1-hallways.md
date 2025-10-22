@@ -1,6 +1,7 @@
 ---
-title: C5B0C2-X1
-tags: [lost_file]
+title: C5B0C2-X1-hallways
+tags:
+  - lost_file
 draft: false
 enableToc:
 dg-publish: true

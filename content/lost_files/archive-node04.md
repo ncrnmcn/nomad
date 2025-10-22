@@ -21,7 +21,7 @@ STATUS: partial / unstable
   quarantine: active
 
 [recovery log]
-- [[C5B0C2-X1-hallways]]
+- [[C5B0C2x1-hallways]]
 
 [system warnings]
   ! incomplete data stream
