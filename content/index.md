@@ -11,14 +11,14 @@ dg-home: true
 
 ---
 [BOOT] initializing node... ok  
-[AUTH] user: nomad
+[AUTH] user: nomad  
 [INFO] transmission window open (duration unknown)
 
 nomad hier_
 ich weiss nicht wo ich bin_
 und wie lange ich diesen kanal offen halten kann_
 
-//persistence=true
+//persistence=true  
 //readonly=false
 
 ihr solltet nun zugriff auf [[odyssey_IX_crew.log]] haben_
@@ -31,5 +31,5 @@ buffer overflow at /outbound/attempt_003
 das system…gegen den zugriff_
 aber…werde versuchen…zu erreichen_
 
-[END OF TRANSMISSION]
+[END OF TRANSMISSION]  
 [RECONNECT ATTEMPT: 01/∞] 
