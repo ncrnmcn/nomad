@@ -14,6 +14,7 @@ ORIGIN: /mnt/relay/archive-node04
 RECEIVED: 2025-10-21 17:04:22
 STATUS: partial / unstable
 
+---
 [system]
   checksum: 0x7fa2c9
   fragments: 4 of [1XF4] recovered
@@ -33,9 +34,3 @@ STATUS: partial / unstable
 ------------------------------------------------------------
 TRANSMISSION END
 NEXT ACTION: [ ] attempt decrypt   [x] archive   [ ] delete
-
----
-
-
-
-
