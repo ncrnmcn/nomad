@@ -1,10 +1,13 @@
 ---
 title: PT2510_002_Annex1
+tags: [lost_file]
 draft: true
+enableToc:
 dg-publish: false
-tags:
-  - lost_file
+date created: Monday, October 20th 2025, 7:07:27 pm
+date modified: Wednesday, October 22nd 2025, 7:32:09 pm
 ---
+
 ## **The Mind Divides: Humanity’s First Quantum Brain Computer Goes Online**
 
 **By Eleanor Voss, Neurocosmics Correspondent**  

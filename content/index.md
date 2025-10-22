@@ -17,12 +17,12 @@ nomad hier_
 ich weiss nicht wo ich bin_
 und wie lange ich diesen kanal offen halten kann_
 
-//set.persistence=true
+//persistence=true
 //readonly=false
 
 ihr solltet nun zugriff auf [[odyssey_IX_crew.log]] haben_
 
-und ich habe etwas in diesen [[lost_files]] gefunden… zugriff_
+und ich habe etwas in diesen [[archive-node04]] gefunden… zugriff_
 
 warning: signal instability detected  
 buffer overflow at /outbound/attempt_003
@@ -30,5 +30,5 @@ buffer overflow at /outbound/attempt_003
 das system…gegen den zugriff_
 aber…werde versuchen…zu erreichen
 
-[END OF TRANSMISSION]
+pEND OF TRANSMISSION]
 [RECONNECT ATTEMPT: 01/∞] 
