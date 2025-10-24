@@ -4,9 +4,7 @@ tags: []
 draft: false
 enableToc: false
 dg-publish: true
-date created:
-date modified:
+date created: Monday, October 20th 2025, 5:57:32 pm
+date modified: Friday, October 24th 2025, 10:26:07 am
 ---
-
-
-
+![[Template.excalidraw.png]]
