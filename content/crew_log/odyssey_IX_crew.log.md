@@ -9,8 +9,8 @@ date modified: Friday, October 24th 2025, 10:26:07 am
 ---
 
 say hi to doog.
+
 ![[doog.png]]  
+
   
 ![[Template.excalidraw.png]]
-
-![[kale1]]
