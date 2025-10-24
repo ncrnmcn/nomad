@@ -1,5 +1,5 @@
 ---
-title: nomad_template01
+title: recent logs
 tags: []
 draft: true
 enableToc: false
