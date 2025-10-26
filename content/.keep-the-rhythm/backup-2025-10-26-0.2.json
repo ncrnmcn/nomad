@@ -221,7 +221,13 @@
         "filePath": "crew_log/odyssey_IX_crew.log.md",
         "wordCountStart": 42,
         "charCountStart": 264,
-        "changes": [],
+        "changes": [
+          {
+            "timeKey": "18:00",
+            "w": -42,
+            "c": -264
+          }
+        ],
         "id": 15
       },
       {
@@ -249,6 +255,11 @@
             "timeKey": "10:45",
             "w": 0,
             "c": -3
+          },
+          {
+            "timeKey": "18:00",
+            "w": -328,
+            "c": -2114
           }
         ],
         "id": 16
