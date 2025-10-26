@@ -11,14 +11,10 @@
             "id": "c9665e347622d281",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "crew_log/odyssey_IX_crew.log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "odyssey_IX_crew.log"
+              "title": "New tab"
             }
           }
         ]
@@ -218,16 +214,8 @@
   },
   "active": "c9665e347622d281",
   "lastOpenFiles": [
-    "index.md",
-    "crew_log/odyssey_IX_crew.log.md",
-    "images/nomad.svg",
-    "images/canvas/template.canvas",
-    "images/canvas",
-    "images/ex/doog.png",
-    "images/ex/Template.excalidraw.png",
-    "images/ex",
-    "images",
     "T.md",
+    "index.md",
     "recent logs.md",
     "private/plotting shit.md",
     "private/export",
@@ -235,7 +223,15 @@
     "private",
     "templates/nomad_template01.md",
     "templates",
+    "crew_log/odyssey_IX_crew.log.md",
     "crew_log",
+    "images/ex/doog.png",
+    "images/ex/Template.excalidraw.png",
+    "images/canvas/template.canvas",
+    "images/nomad.svg",
+    "images/ex",
+    "images/canvas",
+    "images",
     "Excalidraw/Template.excalidraw.md",
     "Excalidraw",
     "lost_files/archive-node04.md",
