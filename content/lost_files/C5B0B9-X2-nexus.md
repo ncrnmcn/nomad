@@ -12,27 +12,24 @@ date modified: Wednesday, October 22nd 2025, 7:42:14 pm
 
 ### 2039
 
-2039 — nicht die Zukunft, die wir uns erhofft hatten. Ein Weltkrieg blieb uns erspart, aber der Globus ist übersät mit Konflikten. Der Klimawandel ist weiter vorangeschritten und der Wohlstand des Westens ist weiter unter Druck geraten. 
-Es wird immer schwieriger aufrecht durchs Leben zu gehen, ohne selbst die Ellenbogen auszufahren, wie die meisten Menschen, die versuchen diese schweren Zeiten zu navigieren. 
-Das Leben ist immer mehr zu einem Konflikt geworden. In dieser Welt kämpfen wir alle. Für unsere Sicherheit, für die Menschen, die wir lieben, für uns selbst und manchmal nur um das eigenen überleben. 
+2039 — nicht die Zukunft, die wir uns erhofft hatten.
 
-London. Ihr habt die letzen Jahre damit vebracht euren Kopf über Wasser zu halten und dafür waren euch die meisten Jobs recht. Lukrativ mussten sie sein, ob sie legal waren, war euch dabei nicht so wichtig. 
+Der Weltkrieg blieb uns bisher erspart, aber der Globus ist mit Konflikten übersät. Der Klimawandel liegt uns wie eine Schlinge um den Hals. Sicherheit und Wohlstand sind weiter unter Druck geraten und wir alle können es spüren. 
 
+Es ist schwierig geworden, aufrecht durchs Leben zu gehen. Jeder hat etwas, wofür er kämpft. Für Sicherheit, für Wohlstand, für die, die wir lieben, oder einfach nur ums nackte Überleben. Die Welt ist härter geworden und uns blieb nichts anderes übrig als dass wir uns anpassten. Wenn du nicht misstrauisch bist, dann bist du naiv. 
+
+London ist dabei keine Ausnahme. Wir haben die letzten Jahre damit verbracht, unsern Kopf über Wasser zu halten. Lukrativ mussten die Jobs sein, die wir annahmen, ob sie legal waren, war optional.
 ### The Club
 
-Der letzten Tage waren öde. Nichts ging. Bobo putzte sein Gewehr in der Küchen und aß dabei Lucky Charms. Immerwieder kleckerte er auf Judy, oder wie auch immer er dieses verdammte Ding nannte. Für jeden Tropfen, den er auf das Gewehr entschuldigte er sich aufrichtig bei seinem Gewehr. Auf die Idee, dass Putzen und Essen gleichzeitig kein guter Plan war, kam er nicht. Lieber säuselte er Beschwichtigungen während er ausgiebig den Lauf polierte. 
-Ich holte mir den Orangensaft aus dem Kühlschrank und hoffte wieder aus der Küche zu sein, bevor er mich entdeckte. 
-- Hey Tyler. 
-Fuck. 
-- Hey Bobo. Na, wie läuft's?
-- Ganz gut. Sherry is gleich wieder wie neu. Das gefällt dir, hm.
-Schon wieder war er mit den Gedanken bei der klobigen Flinte. 
-- 
+Der letzten Tage waren öde. 
 
-Der Regen 
-Roland — Bobo
-Lukas  — Tyler
-Bina — Mary
+%%Nichts ging. Bobo putzte sein Gewehr in der Küchen und aß dabei Lucky Charms. Immerwieder kleckerte er auf Judy, oder wie auch immer er dieses verdammte Ding nannte. Für jeden Tropfen, den er auf das Gewehr entschuldigte er sich aufrichtig bei seinem Gewehr. Auf die Idee, dass Putzen und Essen gleichzeitig kein guter Plan war, kam er nicht. Lieber säuselte er Beschwichtigungen während er ausgiebig den Lauf polierte. 
+Ich holte mir den Orangensaft aus dem Kühlschrank und hoffte wieder aus der Küche zu sein, bevor er mich entdeckte.%%
+
+»Hey Jimmy.«
+Fuck.
+»Hey großer — wie läuft's?«
+»Hm. Gut.« Bobo schaute nachdenklich auf das Gewehr in seinen Händen.
 
 Florence
 Gregory 
@@ -50,7 +47,7 @@ Florence
 Bobo Pumpgun, Schlagstock
 Lukas, lockpick, handy, 
 Mary Messer, Pulver
-###
+
 ### The Hole 
 Die Spieler werden auf der Suche nach ein paar Dokumenten sein. 
 - Interpersonal Skills
