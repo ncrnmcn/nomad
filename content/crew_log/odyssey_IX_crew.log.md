@@ -10,6 +10,7 @@ date modified: Sunday, October 26th 2025, 6:04:35 pm
 
 hello !
 another update.
+pusg from mac.
 say hi to doog.
 
 ![[doog.png]]  
