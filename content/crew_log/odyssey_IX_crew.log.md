@@ -14,7 +14,6 @@ pusg from mac.
 and again.  
 say hi to doog.
 
-![[doog.png]]  
-
   
-![[Template.excalidraw.png]]
+
+

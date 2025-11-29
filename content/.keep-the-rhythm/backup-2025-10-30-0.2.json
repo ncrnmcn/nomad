@@ -336,86 +336,93 @@
             "c": 0
           },
           {
-            "timeKey": "20:30",
-            "w": 111,
-            "c": 760
+            "timeKey": "20:25",
+            "w": 0,
+            "c": 0
           }
         ],
         "id": 17
       },
       {
-        "date": "2025-10-27",
-        "filePath": "index.md",
-        "wordCountStart": 111,
-        "charCountStart": 760,
+        "date": "2025-10-26",
+        "filePath": "Welcome.md",
+        "wordCountStart": 57,
+        "charCountStart": 297,
         "changes": [
           {
-            "timeKey": "09:00",
+            "timeKey": "20:30",
+            "w": 22,
+            "c": 106
+          }
+        ],
+        "id": 18
+      },
+      {
+        "date": "2025-10-27",
+        "filePath": "Welcome.md",
+        "wordCountStart": 79,
+        "charCountStart": 403,
+        "changes": [
+          {
+            "timeKey": "10:40",
             "w": 0,
-            "c": -1
+            "c": 0
+          },
+          {
+            "timeKey": "10:45",
+            "w": 28,
+            "c": 165
+          },
+          {
+            "timeKey": "10:50",
+            "w": 1,
+            "c": 3
+          },
+          {
+            "timeKey": "14:10",
+            "w": 0,
+            "c": 0
           }
         ],
-        "id": 19
+        "id": 23
       },
       {
-        "date": "2025-10-27",
-        "filePath": "crew_log/odyssey_IX_crew.log.md",
-        "wordCountStart": 43,
-        "charCountStart": 272,
+        "date": "2025-10-28",
+        "filePath": "Welcome.md",
+        "wordCountStart": 108,
+        "charCountStart": 571,
         "changes": [
           {
-            "timeKey": "09:20",
-            "w": 7,
-            "c": 45
+            "timeKey": "21:50",
+            "w": 4,
+            "c": 22
           }
         ],
-        "id": 20
+        "id": 30
       },
       {
-        "date": "2025-10-27",
-        "filePath": "private/Overworld.md",
-        "wordCountStart": 75,
-        "charCountStart": 469,
+        "date": "2025-10-29",
+        "filePath": "Welcome.md",
+        "wordCountStart": 112,
+        "charCountStart": 593,
         "changes": [],
-        "id": 21
+        "id": 32
       },
       {
-        "date": "2025-10-27",
-        "filePath": "private/plotting shit.md",
-        "wordCountStart": 14,
-        "charCountStart": 118,
-        "changes": [
-          {
-            "timeKey": "09:00",
-            "w": 23,
-            "c": 102
-          },
-          {
-            "timeKey": "09:05",
-            "w": 8,
-            "c": 45
-          }
-        ],
-        "id": 22
+        "date": "2025-10-30",
+        "filePath": "Welcome.md",
+        "wordCountStart": 112,
+        "charCountStart": 593,
+        "changes": [],
+        "id": 33
       },
       {
-        "date": "2025-10-27",
-        "filePath": "lost_files/C5B0B9-X2-nexus.md",
-        "wordCountStart": 328,
-        "charCountStart": 2114,
-        "changes": [
-          {
-            "timeKey": "16:30",
-            "w": -4,
-            "c": -31
-          },
-          {
-            "timeKey": "16:35",
-            "w": 41,
-            "c": 249
-          }
-        ],
-        "id": 24
+        "date": "2025-10-30",
+        "filePath": "recent logs.md",
+        "wordCountStart": 15,
+        "charCountStart": 113,
+        "changes": [],
+        "id": 34
       }
     ]
   }
