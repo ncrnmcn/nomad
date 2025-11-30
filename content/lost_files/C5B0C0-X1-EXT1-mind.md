@@ -5,10 +5,10 @@ draft: true
 enableToc:
 dg-publish: false
 date created: Monday, October 20th 2025, 7:07:27 pm
-date modified: Wednesday, October 22nd 2025, 7:32:09 pm
+date modified: Saturday, November 29th 2025, 5:43:35 pm
 ---
 
-## **The Mind Divides: Humanity’s First Quantum Brain Computer Goes Online**
+# **The Mind Divides: Humanity’s First Quantum Brain Computer Goes Online**
 
 **By Eleanor Voss, Neurocosmics Correspondent**  
 

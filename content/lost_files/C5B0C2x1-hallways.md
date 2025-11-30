@@ -1,17 +1,16 @@
 ---
 title: C5B0C2-X1-hallways
-tags:
-  - lost_file
+tags: [lost_file]
 draft: false
 enableToc:
 dg-publish: true
 date created: Wednesday, October 22nd 2025, 6:23:48 pm
-date modified: Wednesday, October 22nd 2025, 7:39:00 pm
+date modified: Saturday, November 29th 2025, 5:39:31 pm
 ---
 
-## Endless Hallways 
+# Endless Hallways 
 
-### Erwachen
+## Erwachen
 
 Das Erste, was ich wahrnahm, war das Brummen. Danach begann ich, meine Hände zu spüren. Sie lagen auf einem Tisch. Er fühlte sich kühl an. Erst danach nahm ich allmählich meinen Körper wahr.
 
@@ -25,7 +24,7 @@ Trevor war ungefähr 20, ängstlich und sehr ruhig. Paula war Ende 30 und etwas 
 Der Meetingraum war seltsam — draußen war es noch viel schlimmer.
 
 
-### Der Flur
+## Der Flur
 
 Mir wurde schwindelig, als ich versuchte zu sehen, wo er endet. Eine Tür neben der anderen. Jede genauso ausdruckslos wie die nächste. Als hätte ein gelangweilter Gott sie per copy und paste hier eingefügt.  
 Aber was hinter den Türen auf uns wartete, war alles andere als langweilig.
@@ -39,7 +38,7 @@ Was meine Knie weich werden ließ, war das unbeschreibliche Gefühl der Falschhe
 Hinter mir begann einer der anderen, um Luft zu ringen.
 
 
-### Falscher Raum
+## Falscher Raum
 
 Anscheinend hatte mein Verstand gerade genug Zeit gehabt, um sich zu erholen. Ich drehte mich um und eilte zu Trevor. Zusammen mit Paula brachte ich ihn ins Gebäude zurück. Als er sich beruhigt hatte, erklärte er uns, was passiert war. Seine Worte überschlugen sich, aber als er endlich ganze Sätze bilden konnte, verstanden auch wir es. Paula wurde kreidebleich und setzte sich neben ihn. Mit ihrer anfänglichen Fassung war es vorbei. Ich blickte erneut durch die Tür nach draußen und ging dann die paar Meter zu dem Raum, aus dem wir kamen. Trevor wiederholte sich. Er flüsterte es vor sich hin, während sein Blick nicht von mir abließ.  
 „Der Raum ist falsch.“
