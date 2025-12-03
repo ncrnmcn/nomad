@@ -23,7 +23,7 @@ und wie lange ich diesen kanal offen halten kann_
 
 ihr solltet nun zugriff auf [[odyssey_IX_crew.log]] haben_
 
-und ich habe etwas in [[archive-node04]] gefunden… zugriff_
+und ich habe etwas in [[L05T_F1L35]] gefunden… zugriff_
 
 warning: signal instability detected  
 buffer overflow at /outbound/attempt_003
