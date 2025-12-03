@@ -14,16 +14,15 @@ dg-home: true
 [AUTH] user: nomad  
 [INFO] transmission window open (duration unknown)
 
-nomad hier_
 ich weiss nicht wo ich bin_
 und wie lange ich diesen kanal offen halten kann_
 
 //persistence=true  
 //readonly=false
 
-ihr solltet nun zugriff auf [[odyssey_IX_crew.log]] haben_
+ihr solltet nun zugriff auf [[crew_overview]] haben_
 
-und ich habe etwas in [[L05T_F1L35]] gefunden… zugriff_
+und ich habe etwas in [[00 L05T_F1L35]] gefunden… zugriff_
 
 warning: signal instability detected  
 buffer overflow at /outbound/attempt_003
