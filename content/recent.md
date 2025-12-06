@@ -1,13 +1,11 @@
 ---
 title: recent
+aliases: []
 tags: []
-draft: false
+mocs:
+draft: true
 enableToc: false
 dg-publish: false
-date created:
-date modified:
+date created: Thursday, December 4th 2025, 1:51:10 pm
+date modified: Thursday, December 4th 2025, 1:57:51 pm
 ---
-
-```dataview
- TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Last modified" FROM "" SORT file.mtime DESC LIMIT 10
- ```

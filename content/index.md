@@ -1,11 +1,13 @@
 ---
 title: 0xH0M3
+aliases: []
 tags: []
+mocs:
 draft: false
 enableToc: false
 dg-publish: true
 date created: Saturday, October 18th 2025, 12:02:12 pm
-date modified: Saturday, November 29th 2025, 5:37:45 pm
+date modified: Thursday, December 4th 2025, 1:58:10 pm
 dg-home: true
 ---
 
@@ -14,13 +16,14 @@ dg-home: true
 [AUTH] user: nomad  
 [INFO] transmission window open (duration unknown)
 
-ich weiss nicht wo ich bin_
-und wie lange ich diesen kanal offen halten kann_
+sieht so aus als hättet ihr mich gefunden / nicht ganz das was ihr erwartet habt nehme ich an / ich weiß nicht genau was passiert ist / beim letzten übergang ist etwas passiert / ich bin in die dunkelheit zwischen den welten gefallen / ich weiß nicht wo ich bin und wie lange ich diesen kanal offen halten kann_
 
 //persistence=true  
 //readonly=false
 
-ihr solltet nun zugriff auf [[crew_overview]] haben_
+das system ist fast vollständig verschlüsselt / aber konnte mir zugriff auf einen teil des backup systems verschaffen
+
+ihr solltet nun zugriff auf [[crew_overview]] haben / ich habe
 
 und ich habe etwas in [[L05T_F1L35]] gefunden… zugriff_
 

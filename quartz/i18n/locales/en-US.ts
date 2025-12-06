@@ -33,7 +33,7 @@ export default {
       title: "reader",
     },
     explorer: {
-      title: "root",
+      title: "files",
     },
     footer: {
       createdWith: "created with",
