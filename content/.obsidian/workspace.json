@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "9a631fe75d01d2bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "a6c86d78bb46b946",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5ab146a1c8534bc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dad12324762e46ae",
+    "type": "split",
+    "children": [
+      {
+        "id": "e15c6e615314152b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f254fef63bc66a40",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "868d486020090195",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c3d9d8e8fc8a4a1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ee6aa62a5f6fb6c8",
+    "type": "split",
+    "children": [
+      {
+        "id": "b90f30ae9fddf00c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d30b80a2ac4c224",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "5b74983249251cf0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "55885142fa291de1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "fa22cd0bc2620a97",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "73ba91302b77b890",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "remotely-save:Remotely Save": false
+    }
+  },
+  "active": "a5ab146a1c8534bc",
+  "lastOpenFiles": [
+    "recent.md",
+    "images/nomad.svg",
+    "Ledernacken.md",
+    "private/Odyssey/A02.md",
+    "images/ex/doog.png",
+    "lost_files/L05T_F1L35.md",
+    "private/logs/2025-12-09.md",
+    "crew_files/crew_overview.md",
+    "private/Odyssey/old/Focus.md",
+    "private/logs/2025-12-18.md",
+    "private/logs/2025-12-04.md",
+    "private/Odyssey/X98 Ideas.md",
+    "private/Odyssey/old/Linta.md",
+    "private/Odyssey/X02 Names.md",
+    "templates/nomad_template01.md",
+    "lost_files/C5B0B9-X2-nexus.md",
+    "images/canvas/template.canvas",
+    "private/Odyssey/X01 Glossar.md",
+    "private/Odyssey/02 Chapters.md",
+    "private/Odyssey/01 Overworld.md",
+    "lost_files/C5B0C2x1-hallways.md",
+    "private/Odyssey/A01 Awakening.md",
+    "private/Odyssey/old/tasks path.md",
+    "Excalidraw/A01 cooli.excalidraw.md",
+    "images/ex/Template.excalidraw.png",
+    "lost_files/C5B0C0-X1-EXT1-mind.md",
+    "crew_files/odyssey_IX_crew.log.md",
+    "Excalidraw/Template.excalidraw.md",
+    "private/Odyssey/X99 ODYSSEY Meta.md",
+    "private/Odyssey/Resources/A01 Nomads Brief.md",
+    "Excalidraw/A01 cooli.excalidraw.png",
+    "private/export/A01 Awakening 2025-11-30 11.24.20.excalidraw.png",
+    "Excalidraw/Drawing 2025-10-30 20.21.01.excalidraw.png",
+    "private/Odyssey/old",
+    "private/Odyssey/Resources",
+    "images/ex",
+    "private/logs",
+    "images/canvas",
+    "private/export",
+    "private/Odyssey",
+    "logs",
+    "drafts",
+    "images"
+  ]
+}
