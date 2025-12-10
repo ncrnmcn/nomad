@@ -11,10 +11,14 @@
             "id": "a5ab146a1c8534bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "index"
             }
           }
         ]
@@ -179,16 +183,17 @@
   },
   "active": "a5ab146a1c8534bc",
   "lastOpenFiles": [
+    "private/logs/2025-12-09.md",
+    "private/logs/2025-12-18.md",
     "recent.md",
-    "images/nomad.svg",
     "Ledernacken.md",
+    "index.md",
+    "images/nomad.svg",
     "private/Odyssey/A02.md",
     "images/ex/doog.png",
     "lost_files/L05T_F1L35.md",
-    "private/logs/2025-12-09.md",
     "crew_files/crew_overview.md",
     "private/Odyssey/old/Focus.md",
-    "private/logs/2025-12-18.md",
     "private/logs/2025-12-04.md",
     "private/Odyssey/X98 Ideas.md",
     "private/Odyssey/old/Linta.md",
@@ -208,7 +213,6 @@
     "crew_files/odyssey_IX_crew.log.md",
     "Excalidraw/Template.excalidraw.md",
     "private/Odyssey/X99 ODYSSEY Meta.md",
-    "private/Odyssey/Resources/A01 Nomads Brief.md",
     "Excalidraw/A01 cooli.excalidraw.png",
     "private/export/A01 Awakening 2025-11-30 11.24.20.excalidraw.png",
     "Excalidraw/Drawing 2025-10-30 20.21.01.excalidraw.png",
