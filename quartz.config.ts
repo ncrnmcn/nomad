@@ -8,7 +8,7 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "ghostradio"
+    pageTitle: "ghost:radio",
     pageTitleSuffix: "",
     enableSPA: true,
     enablePopovers: true,
