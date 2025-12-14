@@ -3,9 +3,9 @@ title:
 aliases: []
 tags: []
 mocs:
-draft:
-enableToc:
-dg-publish:
+draft: true
+enableToc: false
+dg-publish: false
 date created: Sunday, December 14th 2025, 3:22:43 pm
 date modified: Sunday, December 14th 2025, 3:24:42 pm
 ---
