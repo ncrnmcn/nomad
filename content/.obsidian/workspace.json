@@ -1,14 +1,14 @@
 {
   "main": {
-    "id": "9a631fe75d01d2bd",
+    "id": "c31f943020ccaecb",
     "type": "split",
     "children": [
       {
-        "id": "a6c86d78bb46b946",
+        "id": "84a4dccc6adf286e",
         "type": "tabs",
         "children": [
           {
-            "id": "a5ab146a1c8534bc",
+            "id": "3d44649e733d5e33",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,49 +22,34 @@
             }
           },
           {
-            "id": "5aa64749cd7b99b2",
+            "id": "7f8009b94c0afbc2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "private/Odyssey/A01 Awakening.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "6674a7b7e49367dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "index"
+              "title": "A01 Awakening"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "dad12324762e46ae",
+    "id": "4ea7b0a7268ee1d6",
     "type": "split",
     "children": [
       {
-        "id": "e15c6e615314152b",
+        "id": "de3520280e7fb80b",
         "type": "tabs",
         "children": [
           {
-            "id": "f254fef63bc66a40",
+            "id": "d901606d27084d27",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -77,7 +62,7 @@
             }
           },
           {
-            "id": "868d486020090195",
+            "id": "8c4aaf67f8cd7db7",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -94,7 +79,7 @@
             }
           },
           {
-            "id": "2c3d9d8e8fc8a4a1",
+            "id": "cd0de36fc8864d45",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -102,27 +87,41 @@
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
+          },
+          {
+            "id": "026d99fd1c13b268",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "com.maxymillion.zen",
+              "state": {},
+              "pinned": true,
+              "icon": "eye",
+              "title": "Zen"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 365.5
   },
   "right": {
-    "id": "ee6aa62a5f6fb6c8",
+    "id": "f52aa6b7ea05ef69",
     "type": "split",
     "children": [
       {
-        "id": "b90f30ae9fddf00c",
+        "id": "a09bf64890f98e51",
         "type": "tabs",
+        "dimension": 66.25,
         "children": [
           {
-            "id": "7d30b80a2ac4c224",
+            "id": "d17faa9b1b3370c3",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,24 +131,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for index"
             }
           },
           {
-            "id": "5b74983249251cf0",
+            "id": "44da6b5773fdd1a4",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from index"
             }
           },
           {
-            "id": "55885142fa291de1",
+            "id": "694f11016f22eb2a",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -164,96 +164,120 @@
             }
           },
           {
-            "id": "fa22cd0bc2620a97",
+            "id": "ea351153f0a4e0bb",
             "type": "leaf",
             "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "type": "quiet-outline",
+              "state": {},
+              "icon": "lines-of-text",
+              "title": "Quiet Outline"
             }
           },
           {
-            "id": "73ba91302b77b890",
+            "id": "d250f4f311886e30",
             "type": "leaf",
             "state": {
-              "type": "outline",
-              "state": {
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline"
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "25eb2b5d5de5788c",
+        "type": "tabs",
+        "dimension": 33.75,
+        "children": [
+          {
+            "id": "2d31173b65548ee8",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 456.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
+      "remotely-save:Remotely Save": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "remotely-save:Remotely Save": false
+      "digitalgarden:Digital Garden Publication Center": false,
+      "obsidian-stille:Toggle Stille": false,
+      "templater-obsidian:Templater": false,
+      "meld-encrypt:New encrypted note": false,
+      "meld-encrypt:Lock and Close all open encrypted notes": false,
+      "meld-encrypt:Convert to or from an Encrypted note": false,
+      "meld-encrypt:Encrypt Selection": false,
+      "meld-encrypt:Decrypt at Cursor": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "local-backup:Run local backup": false
     }
   },
-  "active": "6674a7b7e49367dc",
+  "active": "3d44649e733d5e33",
   "lastOpenFiles": [
-    "index.md",
-    "private/logs/2025-12-09.md",
-    "private/logs/2025-12-18.md",
-    "recent.md",
-    "Ledernacken.md",
-    "images/nomad.svg",
-    "private/Odyssey/A02.md",
-    "images/ex/doog.png",
-    "lost_files/L05T_F1L35.md",
-    "crew_files/crew_overview.md",
-    "private/Odyssey/old/Focus.md",
-    "private/logs/2025-12-04.md",
-    "private/Odyssey/X98 Ideas.md",
-    "private/Odyssey/old/Linta.md",
-    "private/Odyssey/X02 Names.md",
-    "templates/nomad_template01.md",
-    "lost_files/C5B0B9-X2-nexus.md",
-    "images/canvas/template.canvas",
-    "private/Odyssey/X01 Glossar.md",
-    "private/Odyssey/02 Chapters.md",
-    "private/Odyssey/01 Overworld.md",
-    "lost_files/C5B0C2x1-hallways.md",
-    "private/Odyssey/A01 Awakening.md",
-    "private/Odyssey/old/tasks path.md",
-    "Excalidraw/A01 cooli.excalidraw.md",
-    "images/ex/Template.excalidraw.png",
-    "lost_files/C5B0C0-X1-EXT1-mind.md",
-    "crew_files/odyssey_IX_crew.log.md",
-    "Excalidraw/Template.excalidraw.md",
-    "private/Odyssey/X99 ODYSSEY Meta.md",
-    "Excalidraw/A01 cooli.excalidraw.png",
+    "Excalidraw/A01 Awakening 2025-11-30 11.24.20.excalidraw.md",
+    "SILVER CREEK.md",
     "private/export/A01 Awakening 2025-11-30 11.24.20.excalidraw.png",
-    "Excalidraw/Drawing 2025-10-30 20.21.01.excalidraw.png",
-    "private/Odyssey/old",
+    "private/logs/2025-12-04.md",
+    "private/Odyssey/Resources/A01 Nomads Brief.md",
+    "private/Odyssey/A01 Awakening.md",
+    "index.md",
+    "private/Odyssey/old/Focus.md",
+    "recent.md",
+    "private/Odyssey/X98 Ideas.md",
+    "private/Odyssey/X99 ODYSSEY Meta.md",
+    "private/Odyssey/02 Chapters.md",
+    "private/Odyssey/A02.md",
+    "private/Odyssey/X02 Names.md",
+    "private/Odyssey/X01 Glossar.md",
+    "private/Odyssey/01 Overworld.md",
     "private/Odyssey/Resources",
-    "images/ex",
+    "private/Odyssey/old/tasks path.md",
+    "private/Odyssey/old/Linta.md",
+    "private/Odyssey/old/01_THE_NIGHTOCEAN.md",
+    "private/logs/2025-12-09.md",
+    "private/Odyssey/old",
+    "private/Odyssey/00 Project Odyssey Overview.md",
     "private/logs",
-    "images/canvas",
     "private/export",
     "private/Odyssey",
-    "logs",
-    "drafts",
-    "images"
+    "private",
+    "Untitled.md",
+    "crew_files/crew_overview.md",
+    "crew_files/odyssey_IX_crew.log.md",
+    "lost_files/L05T_F1L35.md",
+    "lost_files/C5B0B9-X2-nexus.md",
+    "crew_log/crew.md",
+    "Excalidraw/Drawing 2025-10-30 20.21.01.excalidraw.png",
+    "Excalidraw/A01 cooli.excalidraw.png",
+    "00-09 sys admin/00 meta/00.10 mocs",
+    "00-09 sys admin/00 meta",
+    "00-09 sys admin",
+    "crew_files",
+    "images/ex/doog.png",
+    "images/ex/Template.excalidraw.png",
+    "images/canvas/template.canvas",
+    "images/nomad.svg",
+    "Bildschirmfoto 2025-10-23 um 19.53.56.png",
+    "Excalidraw/doog.png",
+    "Excalidraw/Drawing 2025-10-24 10.57.06.excalidraw.png",
+    "Excalidraw/Drawing 2025-10-24 10.34.09.excalidraw.png"
   ]
 }

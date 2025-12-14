@@ -1,1 +1,10 @@
-{}
+{
+  "promptDelete": false,
+  "showLineNumber": true,
+  "alwaysUpdateLinks": true,
+  "spellcheckDictionary": [
+    "Bobo",
+    "Rimawri"
+  ],
+  "spellcheck": false
+}

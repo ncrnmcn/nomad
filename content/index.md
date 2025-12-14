@@ -16,6 +16,8 @@ dg-home: true
 [AUTH] user: nomad  
 [INFO] transmission window open (duration unknown)
 
+Test.
+
 sieht so aus als hättet ihr mich gefunden_ / nicht ganz das was ihr erwartet habt nehme ich an / ich weiß nicht genau was passiert ist / beim letzten übergang ist etwas passiert / ich bin in die dunkelheit zwischen den welten gefallen / ich weiß nicht wo ich bin und wie lange ich diesen kanal offen halten kann_
 
 //persistence=true  
