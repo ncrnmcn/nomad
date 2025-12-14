@@ -23,7 +23,7 @@ After the silver misidentification, settlers focused on **timber, small-scale fa
 ## **Geography**
 Hemlock Ridge lies amid northern Vermont’s rugged hills, interspersed with groves of hemlock, pine, and mixed hardwoods. Silver Creek flows year-round through the valley, occasionally swelling and revealing the glimmering stones that inspired the town’s original legend.
 
-## **Demographics and Culture**  
+## **Demographics and Culture**
 The population has historically remained small, typically under several hundred residents. Community life centers on forestry, agriculture, and seasonal traditions, including maple tapping and harvest festivals. Social cohesion is strong, with the shortened name **Hemlock** used in daily conversation and informal correspondence.
 
 ### **Legacy**
