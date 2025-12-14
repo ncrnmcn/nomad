@@ -11,6 +11,7 @@ date modified: Sunday, December 14th 2025, 12:42:54 pm
 dg-home: true
 ---
 
-I heard you are new in town. Here's a little help to find your way around. We just call it [[Hemlock]] by the way.
+I heard you are new in town. Here's a little help to find your way around. 
+By the way, we just call it [[Hemlock]].
 
 ![[Hemlock.png]]
