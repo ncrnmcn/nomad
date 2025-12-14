@@ -14,4 +14,4 @@ dg-home: true
 I heard you are new in town. Here's a little help to find your way around. 
 By the way, we just call it [[Hemlock]].
 
-![[Hemlock.png]]
+![[Hemlock.jpg]]

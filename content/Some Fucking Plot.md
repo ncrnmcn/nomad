@@ -16,5 +16,10 @@ Der [[Dead Horse Saloon]] ist abgebrannt. Die Spieler haben eine 50 Chance, dass
 Die drei großen Kneipen im Ort beschuldigen sich gegenseiting.
 Frankies, Dead Horse Saloon und Honkers.
 
-[[Morgan "Red" Redding]] vermutet entweder [[Frank "Reece"]] oder [[Emilio "Sanchez"]] dahinter. Seine Meinung dazu verkundet er lautstark als der Sheriff sich die ganze Sache anschaut.
+[[Morgan Red Redding]] vermutet entwede [[Frank Reece]] oder [[Emilio Sanchez]] dahinter. Seine Meinung dazu verkundet er lautstark als der Sheriff sich die ganze Sache anschaut.
 
+Sheriff
+Dep 1
+Dep 2
+
+[[Castle Hardwick]]
