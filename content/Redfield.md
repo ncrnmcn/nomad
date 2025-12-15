@@ -3,9 +3,9 @@ title: Welcome to Redfield
 aliases: []
 tags: []
 mocs:
-draft: true
-enableToc:
-dg-publish:
+draft: false
+enableToc: true
+dg-publish: true
 date created: Sunday, December 14th 2025, 11:42:17 am
 date modified: Monday, December 15th 2025, 4:14:05 pm
 ---
