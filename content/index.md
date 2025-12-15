@@ -1,5 +1,5 @@
 ---
-title: Welcome to Hemlock Ridge
+title: Welcome to Redfield
 aliases: []
 tags: []
 mocs:
@@ -10,8 +10,7 @@ date created: Saturday, October 18th 2025, 12:02:12 pm
 date modified: Sunday, December 14th 2025, 12:42:54 pm
 dg-home: true
 ---
-
-I heard you are new in town. Here's a little help to find your way around. 
-By the way, we just call it [[Hemlock]].
+Hey, ich hab gehört ihr seid neu in der Stadt. 
+Hier eine kleine Hilfe um euch in [[Redfield]] zurechtzufinden. 
 
 ![[Hemlock.jpg]]
