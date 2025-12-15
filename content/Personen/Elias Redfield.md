@@ -1,7 +1,6 @@
 ---
 title: Elias Redfield
 tags:
-  - npc
 draft: false
 enableToc: false
 dg-publish: true

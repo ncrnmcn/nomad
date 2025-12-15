@@ -1,5 +1,5 @@
 ---
-title: Welcome to Redfield
+title: Redfield
 aliases: []
 tags: []
 mocs:
