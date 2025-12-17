@@ -17,4 +17,4 @@ Weiter unten auf der Seite findet ihr eine Karte, die euch hilft, euch zurechtzu
 
 Also lehnt euch zurück, macht euch vertraut mit der Gegend … und freut euch auf das Abenteuer, das hier auf euch wartet. 
 
-![[Hemlock.jpg]]
+![[Redfield2.jpg]]

@@ -35,13 +35,13 @@ Diese Behauptung stützt sich ausschließlich auf mündliche Überlieferung. Kon
 
 ## Der Streit um Reichtum
 
-Ein weiterer Konfliktpunkt betrifft den späteren Wohlstand der Familie Redfield. Offiziell wird dieser auf den Betrieb der Redwood Mill, einer Sägemühle in der Region, zurückgeführt. Diese Darstellung findet sich in regionalen Wirtschaftsaufzeichnungen.
+Ein weiterer Konfliktpunkt betrifft den späteren Wohlstand der Familie Redfield. Offiziell wird dieser auf den Betrieb der Redfield Mill, einer Sägemühle in der Region, zurückgeführt. Diese Darstellung findet sich in regionalen Wirtschaftsaufzeichnungen.
 
-Die Hardwicks widersprechen dieser Erklärung. Sie vertreten die Ansicht, die Redwood Mill diene als nachträgliche Legitimierung eines Vermögens, dessen Ursprung im verschwundenen Silber liege. Innerhalb der Familie Hardwick gilt die Mühle als bewusste Täuschung, geschaffen, um Fragen nach Elias Redfields frühem Reichtum zu beenden.
+Die Hardwicks widersprechen dieser Erklärung. Sie vertreten die Ansicht, die Redfield Mill diene als nachträgliche Legitimierung eines Vermögens, dessen Ursprung im verschwundenen Silber liege. Innerhalb der Familie Hardwick gilt die Mühle als bewusste Täuschung, geschaffen, um Fragen nach Elias Redfields frühem Reichtum zu beenden.
 
 ## Spätere Jahre und Verschwinden
 
-Über die späteren Lebensjahre von Elias Redfield ist wenig bekannt. Nach dem Abflauen des Silberinteresses verliert sich seine Spur in den frühen 1850er Jahren. Ob er Redfield verließ, sich zurückzog oder starb, ist nicht eindeutig dokumentiert.
+Über die späteren Lebensjahre von Elias Redfield ist wenig bekannt. Nach dem Abflauen des Silberinteresses und der Gründung von Redfield Mill, die bis deren frühen Tod von seinen Söhnen geführt wurde, verliert sich seine Spur in den frühen 1850er Jahren. Ob er Redfield verließ, sich zurückzog oder starb, ist nicht eindeutig dokumentiert.
 
 ## Nachwirkung
 
