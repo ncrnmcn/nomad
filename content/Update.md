@@ -1,5 +1,5 @@
 ---
-title: recent
+title: Update
 aliases: []
 tags: []
 mocs:
@@ -10,17 +10,6 @@ date created: Thursday, December 4th 2025, 1:51:10 pm
 date modified: Thursday, December 4th 2025, 1:57:51 pm
 ---
 
-
-STS
-AI Disclaimer
-
-Der Winter hat Redfield fest im Griff. Die Tage sind grau und kurz. Winterreifen notwendig, Allrad wird empfohlen und auf einen Dieselgenerator und Vorräte zu verzichten wäre ziemlich unvernünftig.
-Aber Redfield ist eine Stadt für weder Unzulänglichkeiten und raues Wetter  Fremdwörter sind und in den Wintermonaten sind die Bürger bemüht zusammen zu halten. Das war schon immer so. 
-
----
-
-
---
 
 Tori is missing. Cherry hat sie zuletzt gesehne. 
 Strickland ist verwundet, wo wie passiert? Und schickt Deputy Rolli. 
