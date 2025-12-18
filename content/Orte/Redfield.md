@@ -13,13 +13,13 @@ date modified: Monday, December 15th 2025, 4:14:05 pm
 
 ## Überblick
 
-Redfield ist eine nicht kleine Stadt im Silver Creek County im Norden Vermonts. Der Ort liegt am Silver Creek und ist von bewaldeten Hügeln und landwirtschaftlicher Nutzfläche umgeben. Die Region ist dünn besiedelt und nicht besonders gut erschlossen.
+Redfield ist eine kleine Stadt im Silver Creek County im Norden Vermonts. Der Ort liegt am Silver Creek und ist von bewaldeten Hügeln und landwirtschaftlicher Nutzfläche umgeben. Die Region ist relativ dünn besiedelt und nicht besonders gut erschlossen.
 
 ## Geschichte
 
 Redfield wurde 1847 gegründet, nachdem der Siedler und Landvermesser [[Elias Redfield]] angab, entlang des heutigen Silver Creek Silber gefunden zu haben. Der Bach erhielt seinen Namen in direktem Bezug auf diesen angeblichen Fund. Zeitgenössischen Berichten zufolge führte die Meldung kurzfristig zu Zuzug und spekulativem Interesse.
 
-Ein lokaler Mythos besagt, dass Elias Redfield tatsächlich eine geringe Menge Silber gewonnen und daraus einige Münzen mit seinem eigenen Porträt prägen ließ. Weiter heißt es, er habe dieses Silber später im nördlich gelegenen Wald vergraben - in einem besonders unwegsamen Tal namens [[Hemlock Grove]]. Für diese Behauptungen existieren keine gesicherten Belege.
+Ein lokaler Mythos besagt, dass Elias Redfield tatsächlich eine geringe Menge Silber gewonnen und daraus einige Münzen mit seinem eigenen Porträt prägen ließ. Weiter heißt es, er habe dieses Silber später im nördlich gelegenen Wald vergraben -- in einem besonders unwegsamen Tal namens [[Hemlock Grove]] -- aber für diese Behauptungen existieren keine gesicherten Belege.
 
 Spätere geologische Untersuchungen stuften das vermeintliche Silber als muskovitreichen Quarz ein, der zwar metallisch glänzt, jedoch keinen wirtschaftlichen Wert besitzt. Daraufhin kam eine weitere Erschließung rasch zum Erliegen.
 
@@ -33,7 +33,7 @@ Redfield liegt in einer hügeligen Region Nordvermonts. Der [[Silver Creek]] dur
 
 ## Bevölkerung und Kultur
 
-Die Einwohnerzahl Redfields lag historisch meist bei wenigen Hundert Personen. Das soziale Leben ist eng mit saisonaler Arbeit und langfristigen familiären Strukturen verbunden. Überlieferungen zur Ortsgründung und zu Elias Redfield sind bekannt, spielen im Alltag jedoch eine untergeordnete Rolle.
+Das soziale Leben ist eng mit saisonaler Arbeit und langfristigen familiären Strukturen verbunden. Überlieferungen zur Ortsgründung und zu Elias Redfield sind bekannt, spielen im Alltag jedoch eine untergeordnete Rolle.
 
 ## Einordnung
 
