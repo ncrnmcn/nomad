@@ -1,6 +1,7 @@
 ---
 title: Elias Redfield
 tags:
+  - personen
 draft: false
 enableToc: false
 dg-publish: true
@@ -10,7 +11,7 @@ date modified:
 
 # Elias Redfield
 
-Elias Redfield war ein US-amerikanischer Siedler und Landvermesser des 19. Jahrhunderts. Er gilt als Namensgeber und zentrale Gründungsfigur der Siedlung Redfield im heutigen Silver-Creek-County im Norden Vermonts. Seine historische Rolle ist untrennbar mit einem angeblichen Silberfund verbunden, der sowohl dokumentierte Folgen als auch bis heute fortbestehende lokale Legenden nach sich zog.
+Elias Redfield war ein US-amerikanischer Siedler und Landvermesser des 19. Jahrhunderts. Er gilt als Namensgeber und zentrale Gründungsfigur der Siedlung Redfield im heutigen Silver Creek County im Norden Vermonts. Seine historische Rolle ist untrennbar mit einem angeblichen Silberfund verbunden, der sowohl dokumentierte Folgen als auch bis heute fortbestehende lokale Legenden nach sich zog.
 
 ## Leben und Tätigkeit
 
@@ -20,9 +21,9 @@ Zeitgenössische Aufzeichnungen erwähnen, dass Redfield nicht allein arbeitete.
 
 ## Jethro Hardwick
 
-Mehrere lokale Überlieferungen nennen Jethro Hardwick als engen Gefährten Redfields. Hardwick soll ihn bei Erkundungen entlang des Bachlaufs begleitet haben und nach späteren Darstellungen eine wesentliche Rolle bei der Entdeckung des angeblichen Silbers gespielt haben.
+Mehrere lokale Überlieferungen nennen [[Jethro Hardwick]] als engen Gefährten Redfields. Hardwick soll ihn bei Erkundungen entlang des Bachlaufs begleitet haben und nach späteren Darstellungen eine wesentliche Rolle bei der Entdeckung des angeblichen Silbers gespielt haben.
 
-Historische Dokumente zu Jethro Hardwick sind spärlich. Sein Name taucht nur indirekt in Briefen, mündlichen Überlieferungen und späteren Familienchroniken auf. Auffällig ist, dass Hardwick nach der Gründungsphase Redfields aus den bekannten Aufzeichnungen verschwindet.
+Historische Dokumente zu Jethro Hardwick sind spärlich. Sein Name taucht nur indirekt in Briefen, mündlichen Überlieferungen und späteren Familienchroniken auf. 
 
 ## Silberfund und Vorwürfe
 
@@ -35,13 +36,13 @@ Diese Behauptung stützt sich ausschließlich auf mündliche Überlieferung. Kon
 
 ## Der Streit um Reichtum
 
-Ein weiterer Konfliktpunkt betrifft den späteren Wohlstand der Familie Redfield. Offiziell wird dieser auf den Betrieb der Redfield Mill, einer Sägemühle in der Region, zurückgeführt. Diese Darstellung findet sich in regionalen Wirtschaftsaufzeichnungen.
+Ein weiterer Konfliktpunkt betrifft den späteren Wohlstand der Familie Redfield. Offiziell wird dieser auf den Betrieb von Redwood Mills, einer Sägemühle in der Region, zurückgeführt. Diese Darstellung findet sich in regionalen Wirtschaftsaufzeichnungen.
 
-Die Hardwicks widersprechen dieser Erklärung. Sie vertreten die Ansicht, die Redfield Mill diene als nachträgliche Legitimierung eines Vermögens, dessen Ursprung im verschwundenen Silber liege. Innerhalb der Familie Hardwick gilt die Mühle als bewusste Täuschung, geschaffen, um Fragen nach Elias Redfields frühem Reichtum zu beenden.
+Die Hardwicks widersprechen dieser Erklärung. Sie vertreten die Ansicht, Redwood Mills diene als nachträgliche Legitimierung eines Vermögens, dessen Ursprung im verschwundenen Silber liege. Innerhalb der Familie Hardwick gilt die Mühle als bewusste Täuschung, geschaffen, um Fragen nach Elias Redfields frühem Reichtum zu beenden.
 
 ## Spätere Jahre und Verschwinden
 
-Über die späteren Lebensjahre von Elias Redfield ist wenig bekannt. Nach dem Abflauen des Silberinteresses und der Gründung von Redfield Mill, die bis deren frühen Tod von seinen Söhnen geführt wurde, verliert sich seine Spur in den frühen 1850er Jahren. Ob er Redfield verließ, sich zurückzog oder starb, ist nicht eindeutig dokumentiert.
+Über die späteren Lebensjahre von Elias Redfield ist wenig bekannt. Nach dem Abflauen des Silberinteresses und der Gründung von Redwood Mills, die bis zu ihrem frühen Tod von seinen Söhnen geführt wurde, verliert sich seine Spur in den frühen 1850er Jahren. Ob er Redfield verließ, sich zurückzog oder starb, ist nicht eindeutig dokumentiert.
 
 ## Nachwirkung
 

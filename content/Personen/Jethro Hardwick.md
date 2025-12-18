@@ -1,7 +1,8 @@
 ---
-title:
-aliases: []
-tags: []
+title: Jethro Hardwick
+aliases:
+tags:
+  - personen
 mocs:
 draft: true
 enableToc: false
