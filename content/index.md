@@ -16,5 +16,5 @@ Egal ob ihr schon ewig hier wohnt oder gerade erst angekommen seid – schön, d
 Weiter unten auf der Seite findet ihr eine Karte, die euch hilft, euch zurechtzufinden. Nutzt sie, schaut euch um, und behaltet die Augen offen – [[Redfield]] ist klein, aber es gibt immer etwas zu entdecken, wenn man genau hinsieht.
 
 Also lehnt euch zurück, macht euch vertraut mit der Gegend … und freut euch auf das Abenteuer, das hier auf euch wartet. 
-it
+
 ![[RedfielMap.jpg]]
