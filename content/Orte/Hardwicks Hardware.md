@@ -11,4 +11,5 @@ dg-publish: true
 date created:
 date modified:
 ---
-Wenn Louie im [[Trading Post]] es nicht hat, dann hat Spencer es, der zusammen mit seinem Vater, der den alten Eisenwarenladen führt. 
+Wenn Louie im [[The Trading Post|Trading Post]] etwas nicht hat, dann hat Spencer es – der den alten Eisenwarenladen zusammen mit seinem Vater führt.  
+Von Anschlagwinkel bis Zylinderschloss, mit dem obligatorischen Schweißgerät dazwischen: „Spence“ hat es entweder da oder kann es besorgen.

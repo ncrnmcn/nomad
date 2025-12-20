@@ -15,5 +15,6 @@ date modified:
 table title, mocs, tags, draft, enableToc, dg-publish
 from ""
 where file.folder = this.file.folder
+SORT file.mtime DESC
 ```
 

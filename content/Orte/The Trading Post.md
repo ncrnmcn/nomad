@@ -1,5 +1,5 @@
 ---
-title: Trading Post
+title: The Trading Post
 aliases: []
 tags:
   - places
@@ -11,4 +11,4 @@ dg-publish: true
 date created:
 date modified:
 ---
-Redfields zentral gelegener Gemischtwarenladen. 
+Redfields zentral gelegener Gemischtwarenladen, geführt von Louie und Selma.

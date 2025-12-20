@@ -11,5 +11,5 @@ dg-publish: true
 date created:
 date modified:
 ---
-Das kleine, beschauliche Polizeirevier von Redfield. 
-[[Chief Baker]] und seine Deputies sorgen in der Stadt für Sicherheit und Ordnung. 
+Das kleine, beschauliche Polizeirevier von Redfield.  
+[[Chief Baker]] und seine Deputies sorgen in der Stadt für Sicherheit und Ordnung.

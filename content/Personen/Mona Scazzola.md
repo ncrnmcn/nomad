@@ -1,7 +1,8 @@
 ---
 title: Mona Scazzola
 aliases: []
-tags: []
+tags:
+  - persons
 mocs:
   - "[[!Mona Scazzola]]"
 draft: false
