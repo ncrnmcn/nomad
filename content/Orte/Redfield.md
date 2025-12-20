@@ -1,7 +1,8 @@
 ---
 title: Redfield
 aliases: []
-tags: []
+tags:
+  - places
 mocs:
 draft: false
 enableToc: true
@@ -19,7 +20,7 @@ Redfield ist eine kleine Stadt im Silver Creek County im Norden Vermonts. Der Or
 
 Redfield wurde 1847 gegründet, nachdem der Siedler und Landvermesser [[Elias Redfield]] angab, entlang des heutigen Silver Creek Silber gefunden zu haben. Der Bach erhielt seinen Namen in direktem Bezug auf diesen angeblichen Fund. Zeitgenössischen Berichten zufolge führte die Meldung kurzfristig zu Zuzug und spekulativem Interesse.
 
-Ein lokaler Mythos besagt, dass Elias Redfield tatsächlich eine geringe Menge Silber gewonnen und daraus einige Münzen mit seinem eigenen Porträt prägen ließ. Weiter heißt es, er habe dieses Silber später im nördlich gelegenen Wald vergraben -- in einem besonders unwegsamen Tal namens [[Hemlock Grove]] -- aber für diese Behauptungen existieren keine gesicherten Belege.
+Ein lokaler Mythos besagt, dass Elias Redfield tatsächlich eine geringe Menge Silber gewonnen und daraus einige Münzen mit seinem eigenen Porträt prägen ließ. Weiter heißt es, er habe dieses Silber später im nördlich gelegenen Wald vergraben -- in einem besonders unwegsamen Tal namens [[!Hemlock Grove]] -- aber für diese Behauptungen existieren keine gesicherten Belege.
 
 Spätere geologische Untersuchungen stuften das vermeintliche Silber als muskovitreichen Quarz ein, der zwar metallisch glänzt, jedoch keinen wirtschaftlichen Wert besitzt. Daraufhin kam eine weitere Erschließung rasch zum Erliegen.
 
@@ -29,7 +30,7 @@ Nach dem Ende der Silbererwartungen konzentrierte sich die Siedlung auf Forstwir
 
 ## Geografie
 
-Redfield liegt in einer hügeligen Region Nordvermonts. Der [[Silver Creek]] durchzieht das Tal ganzjährig und führt nach stärkeren Niederschlägen auffällige, glimmernde Gesteine mit sich. Nördlich des Orts befindet sich [[Pinewood Ridge]], ein unwegsamer Wald, der nur teilweise kartiert ist.
+Redfield liegt in einer hügeligen Region Nordvermonts. Der [[!Silver Creek]] durchzieht das Tal ganzjährig und führt nach stärkeren Niederschlägen auffällige, glimmernde Gesteine mit sich. Nördlich des Orts befindet sich [[!Pinewood Ridge]], ein unwegsamer Wald, der nur teilweise kartiert ist.
 
 ## Bevölkerung und Kultur
 

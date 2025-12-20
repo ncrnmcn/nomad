@@ -1,7 +1,7 @@
 ---
 title: Elias Redfield
 tags:
-  - personen
+  - persons
 draft: false
 enableToc: false
 dg-publish: true
