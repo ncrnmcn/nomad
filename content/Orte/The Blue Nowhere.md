@@ -18,4 +18,3 @@ Sam kam während der Highschool eher zufällig hierher. Ein Nebenjob, der Musik 
 Am ersten Arbeitstag blieb Sam allein zurück – mit Schlüsseln, Verantwortung und einem viel zu großen T-Shirt. Der Barkeeper kam nicht wieder. Sam blieb. Sie brauchte das Geld.
 
 Seitdem führt Sam den Laden praktisch allein. Der Lohn kommt regelmäßig per Post, es mangelt nie an Nachschub, Fragen stellt niemand. Öffnungszeiten, Musik, Drinks – alles liegt in ihrer Hand. Sie macht ihre Arbeit gut und gern.
-t
