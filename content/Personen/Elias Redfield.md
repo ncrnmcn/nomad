@@ -1,12 +1,13 @@
 ---
 title: Elias Redfield
-tags:
-  - persons
+aliases: []
+tags: [persons]
+mocs:
 draft: false
 enableToc: false
 dg-publish: true
-date created:
-date modified:
+date created: Saturday, December 20th 2025, 8:48:30 pm
+date modified: Sunday, December 21st 2025, 11:51:30 am
 ---
 
 # Elias Redfield

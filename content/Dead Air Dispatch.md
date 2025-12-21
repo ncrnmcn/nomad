@@ -21,4 +21,4 @@ Ein Vögelchen hat mir gezwitschert, dass [[Margarete Adams]] das [[Redfield Pol
 
 Das [[Lone Pine Motel]] wird ja schon seit einiger Zeit renoviert, aber die paar Zimmer, die gerade noch bewohnbar sind, werden wohl von den Truckern genutzt, um sich hier noch einmal aufzuwärmen und Schneeketten anzulegen, bevor es weiter in den Norden geht.
 
-Ein paar von ihnen werden sich bestimmt auch das Weihnachtsspecial im Honkers morgen Abend anschauen. Wer es ruhiger mag, kommt bestimmt bei [[Frankies]] oder im [[Dead Horse Saloon]] unter. Wahrscheinlich ist Letzteres zurzeit die bessere Alternative, wenn man Frank und Tiff nicht den ganzen Abend beim Streiten zuhören möchte.
+Ein paar von ihnen werden sich bestimmt auch das Weihnachtsspecial im Honkers morgen Abend anschauen. Wer es ruhiger mag, kommt bestimmt bei [[Frankies]] oder im [[Dead Horse Saloon]] unter. Wahrscheinlich ist Letzteres zurzeit die bessere Alternative, wenn man Frank und Tiff nicht den ganzen Abend beim Streiten zuhören möchte. Natürlich kann man sich auch einfach das ein oder andere Saxophon-Solo bei Sam im [[The Blue Nowhere 1|Blue Nowhere]] gönnen.

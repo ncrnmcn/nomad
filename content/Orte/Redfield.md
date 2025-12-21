@@ -1,15 +1,15 @@
 ---
 title: Redfield
 aliases: []
-tags:
-  - places
+tags: [places]
 mocs:
 draft: false
 enableToc: true
 dg-publish: true
 date created: Sunday, December 14th 2025, 11:42:17 am
-date modified: Monday, December 15th 2025, 4:14:05 pm
+date modified: Sunday, December 21st 2025, 11:51:24 am
 ---
+
 # Redfield, Silver Creek County, Vermont
 
 ## Überblick
