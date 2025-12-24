@@ -19,6 +19,6 @@ Also lehnt euch zurück, macht euch vertraut mit der Gegend … und freut euch a
 
 Checkt auf jeden Fall den [[Dead Air Dispatch]], um auf dem Laufenden zu bleiben.
 
-Repor
+Reports über die bisherigen Erlebnisse findet ihr [[--Reports Übersicht--|hier]].
 
 ![[RedfielMap.jpg]]

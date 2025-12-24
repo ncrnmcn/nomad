@@ -12,10 +12,7 @@ date modified: Monday, December 22nd 2025, 7:40:31 am
 
 ## 1987-12-25
 
-Mann war das eine Show gestern Abend. Ich mein, ich war selbst nicht dort, aber ich hab gehört, dass Kitty dem [[Honkers]] dem ordentlich eingeheizt hat. 
-
-Außderdem hab ich mich mit dem BTX9000 in irgendein seltsames subnet eingwählt. Irgendjem
-
+Mann war das eine Show [[2025-12-13 Lori|gestern Abend]]. Ich mein, ich war selbst nicht dort, aber ich hab gehört, dass Kitty dem [[Honkers]] dem ordentlich eingeheizt hat. 
 
 ## 1987-12-23
 
