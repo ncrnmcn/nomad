@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "99private/logs"
+        - '!file.name.contains("base")'
+    order:
+      - file.name
+      - title
+      - tags
+    columnSize:
+      note.title: 153

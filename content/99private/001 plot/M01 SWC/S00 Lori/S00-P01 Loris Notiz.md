@@ -1,0 +1,25 @@
+---
+title:
+aliases: []
+tags:
+  - M01/S00/E01/P01
+  - props
+mocs:
+  - "[[S00 Lori]]"
+draft:
+enableToc:
+dg-publish:
+date created: Thursday, December 18th 2025, 5:02:26 pm
+date modified: Thursday, December 18th 2025, 6:16:40 pm
+---
+
+DIESER WALD IST EIN HEILIGER ORT
+UND IHR SEID HIER NICHT ERWÜNSCHT
+
+VERLASST DIESEN ORT SOLANGE WIR ES NOCH ERLAUBEN
+SOLANGE EURE NAMEN NOCH EUCH GEHÖREN
+
+DIESER WALD IST EIN HEILIGER ORT
+UND IHR SEID HIER NICHT ERWÜNSCHT
+
+DER KREIS DER SCHWEIGENDEN BÄUME

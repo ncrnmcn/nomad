@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "99private/004 locations"
+    order:
+      - file.name
+      - tags
+      - mocs
+    columnSize:
+      note.tags: 219
