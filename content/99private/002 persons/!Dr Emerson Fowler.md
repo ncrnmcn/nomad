@@ -1,8 +1,11 @@
 ---
 title:
 aliases: []
-tags: [people]
+tags:
+  - people
 mocs:
+  - "[[!PAKT]]"
+  - "[[!Henderson Medical Center]]"
 draft: true
 enableToc: false
 dg-publish: false

@@ -1,8 +1,10 @@
 ---
-title: Debbie
+title: Debra Moore
 aliases: []
-tags: []
+tags:
+  - people
 mocs:
+  - "[[!The Detention Knights]]"
 draft: false
 enableToc: false
 dg-publish: true

@@ -1,8 +1,11 @@
 ---
 title: Lori Davidson
 aliases: []
-tags: [people]
-mocs: "[[!Lori Kitty Davidson]]"
+tags:
+  - people
+mocs:
+  - "[[!Lori Kitty Davidson]]"
+  - "[[!The Detention Knights]]"
 draft: false
 enableToc: false
 dg-publish: true

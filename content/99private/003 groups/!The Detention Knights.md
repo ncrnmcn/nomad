@@ -12,8 +12,11 @@ date modified:
 ---
 Eine Rollenspielgruppe die zuviel weiß
 
-[[!Billy Reed]] -- missing 
+[[!Billy Reed]] -- missing
+kann die Notizen entziffern
 [[!Lori Kitty Davidson]] -- dead?
+kann Bad Santa identifizieren
 [[!Debra Debbie Moore]] -- holed up at home
+
 [[!Colin Fraser]]
 [[!Thomas Yates]]

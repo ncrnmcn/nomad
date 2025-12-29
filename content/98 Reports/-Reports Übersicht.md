@@ -1,5 +1,5 @@
 ---
-title: --Reports Übersicht--
+title: -Reports Übersicht
 aliases: []
 tags: []
 mocs:
@@ -9,7 +9,6 @@ dg-publish: true
 date created:
 date modified:
 ---
-
 
 ## Prolog 
 [[2025-12-13 Lori]]
