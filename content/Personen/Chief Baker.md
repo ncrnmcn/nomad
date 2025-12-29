@@ -1,7 +1,7 @@
 ---
 title: Chief Baker
 aliases: []
-tags: [persons]
+tags: [people]
 mocs:
   - "[[!Chief Leonard Baker]]"
 draft: false

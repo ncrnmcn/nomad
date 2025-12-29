@@ -1,7 +1,7 @@
 ---
 title: The Trading Post
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!The Trading Post]]"
 draft: false

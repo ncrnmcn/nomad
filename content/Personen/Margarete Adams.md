@@ -1,7 +1,7 @@
 ---
 title: Margarete Adams
 aliases: []
-tags: [persons]
+tags: [people]
 mocs:
   - "[[!Margarete Adams]]"
 draft: false

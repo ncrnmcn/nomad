@@ -1,7 +1,7 @@
 ---
 title: Elias Redfield
 aliases: []
-tags: [persons]
+tags: [people]
 mocs:
 draft: false
 enableToc: false

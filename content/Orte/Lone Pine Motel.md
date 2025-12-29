@@ -1,7 +1,7 @@
 ---
 title: Lone Pine Motel
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Lone Pine Motel]]"
 draft: false

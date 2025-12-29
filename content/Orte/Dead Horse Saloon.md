@@ -1,7 +1,7 @@
 ---
 title: Dead Horse Saloon
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Dead Horse Saloon]]"
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: Frankies
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Frankies]]"
 draft: false

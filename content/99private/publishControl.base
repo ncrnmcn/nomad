@@ -1,0 +1,29 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      or:
+        - file.folder == "Orte"
+        - file.folder == "Personen"
+        - file.folder == "Reports"
+        - file.folder == "Gruppen"
+        - file.folder == "/"
+    order:
+      - file.name
+      - dg-publish
+      - draft
+      - enableToc
+      - mocs
+      - tags
+      - file.mtime
+    sort:
+      - property: file.mtime
+        direction: DESC
+      - property: tags
+        direction: ASC
+      - property: date modified
+        direction: ASC
+    columnSize:
+      note.dg-publish: 113
+      note.mocs: 247
+      note.tags: 131

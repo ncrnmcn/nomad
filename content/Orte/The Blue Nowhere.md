@@ -1,7 +1,7 @@
 ---
 title: The Blue Nowhere
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Blue Nowhere]]"
 draft: false

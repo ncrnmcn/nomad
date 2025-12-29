@@ -1,7 +1,7 @@
 ---
 title: Redfield
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
 draft: false
 enableToc: true
@@ -30,7 +30,7 @@ Nach dem Ende der Silbererwartungen konzentrierte sich die Siedlung auf Forstwir
 
 ## Geografie
 
-Redfield liegt in einer hügeligen Region Nordvermonts. Der Silver Creek durchzieht das Tal ganzjährig und führt nach stärkeren Niederschlägen auffällige, glimmernde Gesteine mit sich. Nördlich des Orts befindet sich Pinewood Ridge, ein unwegsamer Wald, der nur teilweise kartiert ist.
+Redfield liegt in einer hügeligen Region Nordvermonts. Der Silver Creek durchzieht das Tal ganzjährig und führt nach stärkeren Niederschlägen auffällige, glimmernde Gesteine mit sich. Nördlich des Orts befindet sich [[Pinewood Ridge]], ein unwegsamer Wald, der nur teilweise kartiert ist.
 
 ## Bevölkerung und Kultur
 

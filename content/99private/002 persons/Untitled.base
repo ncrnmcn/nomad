@@ -1,0 +1,10 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "99private/002 persons"
+    order:
+      - file.name
+      - tags
+      - mocs

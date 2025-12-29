@@ -1,7 +1,7 @@
 ---
 title: Hardwicks Hardware
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Hardwicks Hardware]]"
 draft: false

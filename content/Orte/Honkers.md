@@ -1,7 +1,7 @@
 ---
 title: Honkers
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Honkers]]"
 draft: false

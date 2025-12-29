@@ -1,7 +1,7 @@
 ---
 title: Pleasant View Cemetery
 aliases: []
-tags: [places]
+tags: [locations]
 mocs:
   - "[[!Pleasant View Cemetery]]"
 draft: false

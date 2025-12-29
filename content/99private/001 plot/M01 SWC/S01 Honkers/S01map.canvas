@@ -1,0 +1,53 @@
+{
+	"nodes":[
+		{
+			"id":"f4527b9244d3965d",
+			"type":"text",
+			"text":"Schlüssel",
+			"styleAttributes":{},
+			"x":-140,
+			"y":-520,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"0918bfc4e9273f27",
+			"type":"text",
+			"text":"DetKnights\n",
+			"styleAttributes":{},
+			"x":-340,
+			"y":80,
+			"width":260,
+			"height":60
+		},
+		{
+			"id":"64b1431e90d96b47",
+			"type":"text",
+			"text":"werden vermist. ",
+			"styleAttributes":{},
+			"x":120,
+			"y":80,
+			"width":260,
+			"height":60
+		}
+	],
+	"edges":[
+		{
+			"id":"49a753252a5f0f8b",
+			"styleAttributes":{
+				"pathfindingMethod":null
+			},
+			"toFloating":false,
+			"fromFloating":false,
+			"fromNode":"f4527b9244d3965d",
+			"fromSide":"bottom",
+			"toNode":"0918bfc4e9273f27",
+			"toSide":"top",
+			"label":"wozu gehört er?"
+		}
+	],
+	"metadata":{
+		"version":"1.0-1.0",
+		"frontmatter":{}
+	}
+}
