@@ -13,6 +13,8 @@ date modified: Thursday, December 18th 2025, 6:52:50 pm
 [[!William Carver]] Buergermeister
 [[!Norman Fitch]] Stadrat
 
+
+
 # Festivals
 
 Bigfoot

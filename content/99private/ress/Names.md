@@ -1,6 +1,6 @@
 
-1. Harold Whitcomb  
-2. Margaret Whitcomb  
+1. ==Harold== Whitcomb  
+2. Margaret Whitcomb
 3. Thomas J. Kelleher  
 4. Susan Kelleher  
 5. Frank Delaney  
@@ -12,14 +12,14 @@
 11. Walter Griggs  
 12. Helen Griggs  
 13. Paul M. Renwick  
-14. Diane Renwick  
+14. ==Diane== Renwick  
 15. Charles “Chuck” Moran  
 16. Patricia Moran  
 17. Edward Loomis  
 18. Ruth Loomis  
-19. Kenneth Barker  
+19. ==Kenneth Barker==  
 20. Joanne Barker  
-21. Samuel Crowley  
+21. Samuel ==Crowley==  
 22. Mildred Crowley  
 23. Daniel Foster  
 24. Carol Foster  

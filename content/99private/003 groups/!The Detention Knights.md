@@ -17,6 +17,18 @@ kann die Notizen entziffern
 [[!Lori Kitty Davidson]] -- dead?
 kann Bad Santa identifizieren
 [[!Debra Debbie Moore]] -- holed up at home
-
 [[!Colin Fraser]]
+
 [[!Thomas Yates]]
+Wurde 
+
+## Options
+- exchanged for a [[replicant]] and 
+	- placed in the woods as a blame for the [[!The Stillwater Circle]]
+	- lost in the [[S01-P02 Billies Notizen]].
+- under a spell to serve the [[!Der Pakt]]
+- blackmailed into supporting the pakt
+- lost in the book.
+- lost in the drawing in [[!Room13]]
+- 
+

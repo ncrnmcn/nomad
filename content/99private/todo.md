@@ -5,6 +5,6 @@
 ```
 
 - [x] Cooler Name für Auto salvage und last round. ✅ 2025-12-29
-- [ ] [[!Die Hütte]]
+- [ ] [[!Die Hütte]] 🔼
 - [ ] Ritual
 - [ ] Weg zu [[!Stillwater Pond]]

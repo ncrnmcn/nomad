@@ -16,8 +16,8 @@
 			"type":"text",
 			"text":"test",
 			"styleAttributes":{},
-			"x":-138,
-			"y":-20,
+			"x":-170,
+			"y":-120,
 			"width":260,
 			"height":60,
 			"color":"#809229"

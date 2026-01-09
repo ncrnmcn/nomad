@@ -2,8 +2,10 @@
 title:
 aliases: []
 tags:
-  - locations
+  - people
 mocs:
+  - "[[!Dr Emerson Fowler]]"
+  - 
 draft: true
 enableToc: false
 dg-publish: false

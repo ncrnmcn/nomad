@@ -14,6 +14,13 @@ date modified: Monday, December 15th 2025, 10:06:33 pm
 
 # Honkers
 
+- [ ] Brandstelle [[!Chief Leonard Baker]] [[!Deputy Gabriel Davidson]] [[!Deputy Weston Smith]] [[!Deputy Jim Patterson]]
+- [c] Loris Leiche
+- [ ] Hinweis von [[!Agent Cassandra]]
+- [ ] Obduktion [[!Barker Medical Center]] [[!Dr Emerson Fowler]]
+- [ ] [[!Father Martin]]
+- [ ] Billy is missing. Harold & Diane.
+
 ## Overview
 
 [[!Honkers]] ist abgebrannt.Die drei großen Kneipen im Ort beschuldigen sich gegenseiting.
@@ -33,7 +40,7 @@ Nachdem die Feuerwehr den Brand gelöscht hat finden sie eine Leiche. Die Obdukt
 
 Zeitgleich geht ein Anruf ein, dass [[!Billy Reed]] vermisst wird.
 
-Auf Druck von [[!William Carver]] wird die Leiche im [[!Henderson Medical Center]]
+Auf Druck von [[!William Carver]] wird die Leiche im [[!Barker Medical Center]]
 obduziert. Dieser handelt jedoch nur auf Druck des [[!Norman Fitch]] so.
 
 Aber der [[!Dr Emerson Fowler]] arbeitet mit [[!Agent Cassandra]] zusammen. Sie haben [[!Lori Kitty Davidson|Lori]] in Sicherheit gebracht, bis sie herausgefuden haben wer die [[!The Detention Knights]] jagt.
@@ -52,13 +59,14 @@ Unter anderem wird hier [[!Barry]] erwähnt, den B
 
 [[!Ma Baker]] hat 
 
-![[S01map.canvas|S01map]]
 
 ## The Crime Scene
 
-Der alte Keller wurde nicht benutzt. 
-
+[[S01-L01 Tatort Honkers]]
 
 ## The Obduction
 
-Irgendwie müssen die Spieler dabei sein. Cass bittet [[!Deputy Davidson]] der Obduktion beizuwohnen. 
+Irgendwie müssen die Spieler dabei sein. Cass bittet [[!Deputy Gabriel Davidson]] der Obduktion beizuwohnen. 
+
+
+[[S01-L02 Obduktion]]

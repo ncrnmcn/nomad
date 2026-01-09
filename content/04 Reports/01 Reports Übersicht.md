@@ -1,0 +1,15 @@
+---
+title: -Reports Übersicht
+aliases: []
+tags: []
+mocs:
+draft: false
+enableToc: true
+dg-publish: true
+date created:
+date modified:
+---
+
+## Prolog 
+[[2025-12-13 Lori]]  
+Die Crew sucht die verschwundene Lori quer durch Redfield bis nach Stonebridge und findet sie schließlich wohlbehalten mit Freunden in einer eingeschneiten Hütte namens Bongwater Castle, rechtzeitig, um noch zum XXXmas-Special im Honkers *zurückzukehren*.

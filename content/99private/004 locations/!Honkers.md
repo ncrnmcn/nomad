@@ -15,7 +15,8 @@ date modified: Thursday, December 18th 2025, 6:52:50 pm
 
 Bis 1989 im Besitz von [[!Mona Scazzola]]. Danach gab sie den Laden an [[!Emilio Sanchez]] und übernahm das [[!Lone Pine Motel]].
 
-Wer sth
+Alte Hupe als Schild.
+Mona und Sarah.
 # misc
 
 ```dataview

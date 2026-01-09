@@ -1,7 +1,8 @@
 ---
 title: Jethro Hardwick
 aliases: []
-tags: [people]
+tags:
+  - people
 mocs:
 draft: true
 enableToc: false

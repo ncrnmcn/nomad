@@ -12,7 +12,7 @@ date modified: Thursday, December 18th 2025, 6:51:09 pm
 
 # Charakter
 
-[[!Deputy Davidson]]
+[[!Deputy Gabriel Davidson]]
 
 ## Rolli
 
