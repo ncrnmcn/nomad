@@ -4,6 +4,7 @@ aliases: []
 tags:
   - people
 mocs:
+  - "[[!Barry]]"
 draft: false
 enableToc: false
 dg-publish: true

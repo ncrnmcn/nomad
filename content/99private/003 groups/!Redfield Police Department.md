@@ -16,7 +16,7 @@ Chief of Police
 [[!Chief Leonard Baker]]
 
 Deputies
-[[!Deputy Davidson]]
+[[!Deputy Gabriel Davidson]]
 [[!Deputy Jim Patterson]]
 [[!Deputy Weston Smith]]
 

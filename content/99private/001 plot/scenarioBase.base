@@ -3,11 +3,13 @@ views:
     name: Table
     filters:
       and:
-        - file.folder.startsWith("private/001 plot")
+        - file.folder.startsWith("99private/001 plot")
         - '!file.name.contains("base")'
     order:
       - file.name
       - tags
-    sort: []
+    sort:
+      - property: file.name
+        direction: ASC
   - type: table
     name: View

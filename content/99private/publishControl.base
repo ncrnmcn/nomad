@@ -3,10 +3,10 @@ views:
     name: Table
     filters:
       or:
-        - file.folder == "Orte"
-        - file.folder == "Personen"
-        - file.folder == "Reports"
-        - file.folder == "Gruppen"
+        - file.folder == "01 Orte"
+        - file.folder == "02 Personen"
+        - file.folder == "04 Reports"
+        - file.folder == "03 Gruppen"
         - file.folder == "/"
     order:
       - file.name

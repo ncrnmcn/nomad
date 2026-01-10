@@ -1,6 +1,7 @@
 ---
 title:
-aliases: []
+aliases:
+  - Billies Notizen
 tags:
   - M01/S01/EXX/P02
   - props

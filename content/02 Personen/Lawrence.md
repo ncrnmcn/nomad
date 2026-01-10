@@ -10,8 +10,9 @@ date created:
 date modified:
 ---
 
-## Charakter
-
-[[!Joe Diesel Malone]]
-
+```dataview
+TABLE WITHOUT ID file.link AS Unlinked
+FROM [[]] and !outgoing([[]])
+SORT file.name ASC
+```
 
