@@ -6,6 +6,11 @@ views:
         - file.path.contains("M01")
         - '!file.name.contains("base")'
         - '!file.name.contains("M01")'
+    order:
+      - file.name
+      - file.path
     sort:
-      - property: file.name
+      - property: file.path
         direction: ASC
+      - property: file.name
+        direction: DESC
