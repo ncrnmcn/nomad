@@ -3,8 +3,8 @@
 2. Margaret Whitcomb
 3. Thomas J. Kelleher  
 4. Susan Kelleher  
-5. Frank Delaney  
-6. Nora Delaney  
+5. ==Frank Delaney  
+6. ==Nora Delaney  
 7. Robert H. Pike  
 8. Eleanor Pike  
 9. James Holloway  
@@ -14,7 +14,7 @@
 13. Paul M. Renwick  
 14. ==Diane== Renwick  
 15. Charles “Chuck” Moran  
-16. Patricia Moran  
+16. ==Patricia Moran  
 17. Edward Loomis  
 18. Ruth Loomis  
 19. ==Kenneth Barker==  
@@ -180,7 +180,7 @@
 177. Theodore Glass  
 178. Alma Glass  
 179. Joseph Maloney  
-180. Bernice Maloney  
+180. ==Bernice Maloney  
 181. Edgar Winslow  
 182. Phoebe Winslow  
 183. Neil Patterson  

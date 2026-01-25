@@ -11,4 +11,4 @@ date created:
 date modified:
 ---
 
-Carlo and Federico Santoro run First Class Salvage, a Stonebridge-based car salvage operation. Carlo oversees the hands-on demolition and recovery—engines, frames, rare parts—while Federico handles paperwork, auctions, and discreet sales of high-demand finds. Between them, they control the flow of second lives for every abandoned vehicle in the region, respected, feared, and indispensable.
+Carlo and Federico Santoro run First Class Salvage, a Stonebridge-based car salvage operation. Carlo oversees the hands-on demolition and recovery—engines, frames, rare parts—while Federico handles paperwork, auctions, and discreet sales of high-demand finds. Between them, they control the flow of second lives 

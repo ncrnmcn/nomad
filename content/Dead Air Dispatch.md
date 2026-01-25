@@ -9,10 +9,16 @@ dg-publish: true
 date created: Sunday, December 21st 2025, 12:37:01 pm
 date modified: Tuesday, January 20th 2026, 5:07:41 pm
 ---
+## 1991-04-12
 
+Also langsam reicht es mit den Sirenen, Mann. Euer Lieblings-DJ braucht schließlich seinen Schönheitsschlaf.
+
+Wie es aussieht, hat Redfield [[1991-04-12 Honkers in Flammen|gestern Abend]] den größten Brand der letzten Jahre erlebt. Und so ernst, wie die Gesichter der Gesetzeshüter aussahen, blieb es wohl nicht bei einem bloßen Sachschaden.
+
+Noch ist nicht bekannt, was – oder wer – den Brand ausgelöst hat. Sollte es neue Erkenntnisse geben, erfahrt ihr sie natürlich als Erstes hier.
 ## 1991-04-10
 
-Mann, was für ein geiler Gig [[2026-01-15 Mr Cheese|gestern Abend]]! Mr Cheese hat dem Laden ordentlich eingeheizt – einfach Wahnsinn, wie sich das Nowhere entwickelt hat.
+Mann, was für ein geiler Gig [[1991-04-09 Mr Cheese|gestern Abend]]! Mr Cheese hat dem Laden ordentlich eingeheizt – einfach Wahnsinn, wie sich das Nowhere entwickelt hat.
 
 Das Lori jetzt dort arbeitet hat wohl einige überrascht. 
 
@@ -35,7 +41,7 @@ Static out.
 
 ## 1987-12-25
 
-Mann war das eine Show [[2025-12-13 Lori|gestern Abend]]. Ich mein, ich war selbst nicht dort, aber ich hab gehört, dass Kitty dem [[Honkers]] dem ordentlich eingeheizt hat. 
+Mann war das eine Show [[1987-12-24 Lori|gestern Abend]]. Ich mein, ich war selbst nicht dort, aber ich hab gehört, dass Kitty dem [[Honkers]] dem ordentlich eingeheizt hat. 
 
 ## 1987-12-23
 
