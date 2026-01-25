@@ -30,7 +30,7 @@ Dort angekommen behält er [[Dr. Emerson Fowler]], der die Obduktion persönlich
 
 Es folgt ein überstürzter Ausflug zu Loris letztem Wohnort. Gabe ignoriert zunächst die Existenz des Schlüssels, während er darüber nachdenkt, die Tür einzutreten. In letzter Sekunde fällt ihm der Schlüssel wieder ein – nur um festzustellen, dass er nicht passt. Tja. Gabe verschafft sich dennoch Zutritt, doch Loris Wohnung ist bemerkenswert unauffällig.
 
-Er ist gerade dabei, Loris Wäscheschrank zu durchwühlen, als ihm einfällt, dass Chris inzwischen in Redfield eingetroffen sein sollte.
+Er ist gerade kurz davor, Loris Wäscheschrank zu durchwühlen, als ihm einfällt, dass Chris inzwischen in Redfield eingetroffen sein sollte.
 
 Kurz darauf stehen beide in der improvisierten Asservatenkammer Redfields. Chris hat den demolierten PANOPTEX aufgeschraubt und mit frisch angelöteten Kontakten an einen Fernseher angeschlossen. Sie spulen das Band zurück, und dank der robusten Konstruktion der PANOPTEX-Blackbox erhalten sie einen Einblick in die Ereignisse der frühen Morgenstunden im Honkers.
 

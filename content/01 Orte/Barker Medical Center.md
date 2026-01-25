@@ -1,30 +1,33 @@
 ---
 title: Barker Medical Center
 aliases: []
-tags:
-  - locations
+tags: [locations]
 mocs:
   - "[[!Barker Medical Center]]"
 draft: false
 enableToc: true
 dg-publish: true
-date created:
-date modified:
+date created: Sunday, January 25th 2026, 12:13:35 pm
+date modified: Sunday, January 25th 2026, 12:20:10 pm
 ---
-## **Barker Medical Center
-_Healing Redfield, from dawn’s first breath to the silent end of night._
 
----
-### **Overview**
+## Barker Medical Center
 
-Barker Medical Center is the cornerstone of health and wellness in **the Redfield region** — a comprehensive, community-oriented medical institution dedicated to providing accessible, high-quality care to every resident in Redfield and its farming outposts. Like a reassuring lighthouse in the fog, Barker stands vigilant against illness, injury, and despair.
-
-Founded over a century ago to serve miners and homesteaders, Barker has grown into a critically vital hub of medical expertise, blending old-world compassion with cutting-edge techniques adapted to the rugged demands of frontier life.
+_Heilung für Redfield, vom ersten Atemzug der Morgendämmerung bis zum stillen Ende der Nacht._
 
 ---
-### **Mission**
 
-_“To safeguard the health and dignity of every soul in the Redfield domain by ensuring access to lifesaving care, preventative services, and steadfast support across the lifespan.”_
+### Überblick
+
+Das Barker Medical Center ist das Herzstück der Gesundheit und des Wohlbefindens in **der Region Redfield** — eine umfassende, gemeinschaftsorientierte medizinische Einrichtung, die sich der Bereitstellung von zugänglicher, qualitativ hochwertiger Versorgung für jeden Bewohner Redfields und seiner landwirtschaftlichen Außenposten verschrieben hat. Wie ein beruhigendes Leuchtfeuer im Nebel steht Barker wachsam gegen Krankheit, Verletzung und Verzweiflung.  
+
+Vor über einem Jahrhundert gegründet, um Bergleute und Siedler zu versorgen, hat sich Barker zu einem unverzichtbaren Zentrum medizinischer Expertise entwickelt, das Mitgefühl alter Schule mit modernsten Techniken verbindet, die den harten Anforderungen des Grenzlebens angepasst sind.  
+
+---
+
+### Mission
+
+_„Die Gesundheit und Würde jeder Seele im Silver Creek Valley zu bewahren, indem lebensrettende Versorgung, präventive Dienste und beständige Unterstützung über das gesamte Leben hinweg gewährleistet werden.“_  
 — [[Dr. Emerson Fowler]]
 
-This mission is not merely ink on parchment — it guides every healer, medic, and caregiver that walks Barker’s halls.
+Diese Mission ist nicht nur Tinte auf Pergament — sie leitet jeden Heiler, Mediziner und Betreuer, der die Hallen von BMC durchschreitet.
