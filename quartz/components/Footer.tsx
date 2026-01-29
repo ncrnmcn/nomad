@@ -17,7 +17,7 @@ export default ((opts?: Options) => {
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
-              <a href={link}>{text}</a>
+              <a href="https://stash.okkultra.com">Ξ</a>
             </li>
           ))}
         </ul>
