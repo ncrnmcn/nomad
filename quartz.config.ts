@@ -29,26 +29,26 @@ const config: QuartzConfig = {
       },
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#9EA74E",        // background (swapped)
+          lightgray: "#B4BC6A",    // thin lines, frames, graph connections, search background
+          gray: "#4B5124",         // text in search box, graph links highlight
+          darkgray: "#1B0A1B",     // loupe, symbols, body text, credits
+          dark: "#2E1A2E",         // headings, unhighlighted folder content, node text
+          secondary: "#1B0A1B",    // header, folders, tags text, active node, links
+          tertiary: "#7C843E",     // selected text background, hover, non-active node
+          highlight: "#6E7536",    // internal link background
+          textHighlight: "#7C843E" // marked text background
         },
         darkMode: {
-          light: "#140208", //backgr
-          lightgray: "#819429", //borders
-          gray: "#819429", //graph links
-          darkgray: "#819429", //body text
-          dark: "#819429", //header text
-          secondary: "#819429", // link color
-          tertiary: "#819429", // hover
-          highlight: "rgba(49, 56, 15, 0.5)", // internal link back
-          textHighlight: "#31380F", // mark high
+          light: "#1B0A1B",        // background
+          lightgray: "#2E1A2E",    // thin lines, frames, graph connections, search background
+          gray: "#6E7536",         // text in search box, graph links highlight
+          darkgray: "#8C9444",     // loupe, symbols, body text, credits
+          dark: "#9EA74E",         // headings, unhighlighted folder content, node text
+          secondary: "#A8B05A",    // header, folders, tags text, active node, links
+          tertiary: "#4B5124",    // selected text background, hover, non-active node
+          highlight: "#31380F",    // internal link background
+          textHighlight: "#5E6530" // marked text background
         },
       },
     },
