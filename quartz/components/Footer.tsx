@@ -14,6 +14,7 @@ export default ((opts?: Options) => {
     return (
       <footer class={`${displayClass ?? ""}`}>
         <p>C5.B2.B0</p>
+        <a href="https://stash.okkultra.com">Ξ</a>
         <ul>
           {Object.entries(links).map(([text, link]) => (
             <li>
