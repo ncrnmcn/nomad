@@ -1,6 +1,6 @@
 ---
-title: The Coin Drop
-aliases: []
+title: Coin Drop
+aliases:
 tags:
   - locations
 mocs:

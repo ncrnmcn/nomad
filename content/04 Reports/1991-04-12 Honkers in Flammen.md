@@ -2,6 +2,7 @@
 title: 1991-04-12 Honkers in Flammen
 aliases: []
 tags:
+  - reports
 mocs:
   - "[[!26-01-22]]"
 draft: false
