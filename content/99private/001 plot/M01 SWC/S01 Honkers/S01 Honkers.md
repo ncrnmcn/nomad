@@ -15,7 +15,7 @@ date modified: Monday, December 15th 2025, 10:06:33 pm
 # Honkers
 
 - [ ] Brandstelle [[!Chief Leonard Baker]] [[!Deputy Gabriel Davidson]] [[!Deputy Weston Smith]] [[!Deputy Jim Patterson]]
-- [c] Loris Leiche
+- [x] Loris Leiche ✅ 2026-02-06
 - [ ] Hinweis von [[!Agent Cassandra]]
 - [ ] Obduktion [[!Barker Medical Center]] [[!Dr Emerson Fowler]]
 - [ ] [[!Father Martin]]
@@ -34,7 +34,7 @@ Frank und Morgan beschuldigen sich gegenseitig. Grund ihres Streits ist [[!Tiffa
 [[!Chief Leonard Baker]]
 [[!Deputy Weston Smith]]
 [[!Deputy Jim Patterson]]
-[[!Marianne Rogers]]
+[[!Marianne Mary Rogers]]
 
 Nachdem die Feuerwehr den Brand gelöscht hat finden sie eine Leiche. Die Obduktion ergibt, dass es sich um Lori handelt.
 
