@@ -1,5 +1,5 @@
 ---
-title: 1991-04-12 Honkers in Flammen
+title: 1991-04-12 Honkers
 aliases: []
 tags:
   - reports

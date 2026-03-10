@@ -1,7 +1,8 @@
 ---
 title: First Class Salvage
 aliases: []
-tags: []
+tags:
+  - locations
 mocs:
 draft: false
 enableToc: false

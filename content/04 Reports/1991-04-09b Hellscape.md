@@ -1,5 +1,5 @@
 ---
-title: 1991-04-09b Redfield Chapters - Hellscape
+title: 1991-04-09b Hellscape
 aliases: []
 tags:
   - reports
