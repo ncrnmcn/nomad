@@ -1,5 +1,5 @@
 ---
-title: 1991-04-12d Redfield Marksman
+title: 1991-04-12 Redfield Marksman
 aliases: []
 tags: []
 mocs:

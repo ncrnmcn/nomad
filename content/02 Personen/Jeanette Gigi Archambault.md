@@ -1,12 +1,13 @@
 ---
-title:
+title: Jeanette Gigi Archambault
 aliases: []
 tags:
   - people
 mocs:
-draft: true
+draft: false
 enableToc: false
-dg-publish: false
+dg-publish: true
 date created:
 date modified:
 ---
+Gigi ist eine mysteriöse Person.
