@@ -3,8 +3,8 @@
 2. Margaret Whitcomb
 3. Thomas J. Kelleher  
 4. Susan Kelleher  
-5. ==Frank Delaney  
-6. ==Nora Delaney  
+5. ==Frank Delaney==
+6. ==Nora Delaney
 7. Robert H. Pike  
 8. Eleanor Pike  
 9. James Holloway  

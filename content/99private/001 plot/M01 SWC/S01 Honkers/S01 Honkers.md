@@ -2,7 +2,6 @@
 title:
 aliases: []
 tags:
-  - M01/S01
   - scenario
 mocs: "[[!M01]]"
 draft: true
