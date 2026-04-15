@@ -9,6 +9,24 @@ dg-publish: true
 date created: Sunday, December 21st 2025, 12:37:01 pm
 date modified: Tuesday, January 20th 2026, 5:07:41 pm
 ---
+## 1991-04-14
+
+_Signal. Irgendwas von den Pixies, halb zu Ende. Dann die Stimme._
+
+Static hier. Bleibt dran, ist gleich vorbei.
+
+Also. Donna Weaver hat heute ihren Zaun gestrichen. Weiß, wieder. Drittes Mal seit Februar, falls jemand mitzählt — ich zähle mit, weil sonst niemand es tut. Sieht gut aus, muss ich sagen. Sehr sauber. Sehr weiß. Als hätte sie etwas drunterlackiert, das nicht mehr sichtbar sein soll.
+
+Pete Hollis' Hund ist wieder aufgetaucht. War drei Tage weg, wie immer, und Pete stand heute Morgen auf seiner Veranda und hat ihn einfach reinkommen lassen, ohne große Worte. Ich hab ihn gefragt, ob er sich keine Sorgen macht. Er sagt, er hat aufgehört. Klingt entspannt, wenn man's schnell sagt.
+
+Das Schlagloch auf dem Parkplatz beim Diner ist immer noch da. Gerry hat mir versprochen — persönlich, unter Augenkontakt — dass er sich drum kümmert. Das war im Oktober. Das Schlagloch entwickelt Charakter. Ich glaube, Gerry auch.
+
+Morgen: bewölkt, sieben Grad, Wind aus Nordwest. Also wie heute. Wie gestern. Wie vermutlich übermorgen.
+
+Ich spiel jetzt was Ruhiges. Ihr verdient es. Meistens.
+
+_R.E.M. — „Half a World Away". Läuft durch bis zum Rauschen._
+
 ## 1991-04-12
 
 Also langsam reicht es mit den Sirenen, Mann. Euer Lieblings-DJ braucht schließlich seinen Schönheitsschlaf.

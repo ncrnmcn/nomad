@@ -61,11 +61,11 @@ Unter anderem wird hier [[!Barry]] erwähnt, den B
 
 ## The Crime Scene
 
-[[S01-L01 Tatort Honkers]]
+[[S01-SC01 Tatort Honkers]]
 
 ## The Obduction
 
 Irgendwie müssen die Spieler dabei sein. Cass bittet [[!Deputy Gabriel Davidson]] der Obduktion beizuwohnen. 
 
 
-[[S01-L02 Obduktion]]
+[[S01-SC02 Obduktion]]
