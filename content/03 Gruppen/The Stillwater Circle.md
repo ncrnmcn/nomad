@@ -9,4 +9,3 @@ dg-publish: true
 date created: Wednesday, December 24th 2025, 6:03:29 pm
 date modified: Wednesday, December 24th 2025, 6:04:28 pm
 ---
-[[Barry]] der Obdachl

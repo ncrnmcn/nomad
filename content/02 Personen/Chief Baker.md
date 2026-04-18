@@ -12,4 +12,4 @@ date modified: Sunday, December 21st 2025, 11:51:30 am
 ---
 
 Chief Baker ist in Redfield das Gesetz.  
-Das Einzige, was er fast genauso sehr hasst wie den Kommunismus, ist es, wenn ihm das County oder irgendwelche Bundesbehörden ihm reinreden wollen.
+Das Einzige, was er fast genauso sehr hasst wie den Kommunismus, ist es, wenn ihm das County oder irgendwelche Bundesbehörden reinreden wollen.
