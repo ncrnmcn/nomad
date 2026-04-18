@@ -12,7 +12,7 @@ date modified: Sunday, December 21st 2025, 11:51:30 am
 ---
 
 > [!info] Update
-> Leider müssen wir davon ausgehen, dass Mona nicht unter uns weilt. Siehe: [[Hautsack voller Ungeziefer]]
+> Leider müssen wir davon ausgehen, dass Mona nicht mehr unter uns weilt. Siehe: [[Hautsack voller Ungeziefer]]
 
 Mona ~~ist~~ die Chefin des [[Honkers]] ~~und renoviert gerade das [[Lone Pine Motel]].~~
 
