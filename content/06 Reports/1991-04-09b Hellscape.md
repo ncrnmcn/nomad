@@ -17,7 +17,7 @@ Wie gesagt: Stan war selten aufgeregt. Aber heute war ein besonderer Abend. In d
 
 Der Grund dafür hieß **[[HELLSCAPE - BORG & THE BLACK SORCERER|HELLSCAPE]]**.
 
-Es war der zweite Automat von D.A.M.N. (Digital Arts & Media Network) – und er war revolutionär. Statt eines Monitors und eines gewöhnlichen Controllers sollte HELLSCAPE die Spieler mithilfe eines Helms in eine künstliche Realität entführen. Das Ding würde einschlagen wie eine Bombe. Auch wenn Stan sich wohl damit abfinden musste, diese Revolution der Videospielbranche denselben Rotznasen vorzustellen, die ohnehin jeden Abend hier herumhingen.
+Es war der zweite Automat von [[D.A.M.N.]] (Digital Arts & Media Network) – und er war revolutionär. Statt eines Monitors und eines gewöhnlichen Controllers sollte HELLSCAPE die Spieler mithilfe eines Helms in eine künstliche Realität entführen. Das Ding würde einschlagen wie eine Bombe. Auch wenn Stan sich wohl damit abfinden musste, diese Revolution der Videospielbranche denselben Rotznasen vorzustellen, die ohnehin jeden Abend hier herumhingen.
 
 Iain, bei einigen seiner Mitschüler auch als _Porridge_ bekannt, war eigentlich immer hier. Er gehörte zu den wenigen, die einen Highscore im Drop ihr Eigen nennen konnten – und Stan hatte es bis heute nicht geschafft, ihn bei **MALAGHER** zu schlagen.
 

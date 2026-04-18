@@ -7,25 +7,24 @@ draft: false
 enableToc: true
 dg-publish: true
 date created: Sunday, December 21st 2025, 12:37:01 pm
-date modified: Tuesday, January 20th 2026, 5:07:41 pm
+date modified: Saturday, April 18th 2026, 11:25:25 am
 ---
+
 ## 1991-04-14
 
-_Signal. Irgendwas von den Pixies, halb zu Ende. Dann die Stimme._
+*<Im Hintergrund verhallt einer der melancholischsten Springsteen-Songs, den ihr jemals gehört habt, bevor Static dem Boss respektlos ins Wort fällt.>*
 
-Static hier. Bleibt dran, ist gleich vorbei.
+Redfield. Static hier. Aber wenn ihr eingeschaltet habt, dann wisst ihr das ja bereits.
 
-Also. Donna Weaver hat heute ihren Zaun gestrichen. Weiß, wieder. Drittes Mal seit Februar, falls jemand mitzählt — ich zähle mit, weil sonst niemand es tut. Sieht gut aus, muss ich sagen. Sehr sauber. Sehr weiß. Als hätte sie etwas drunterlackiert, das nicht mehr sichtbar sein soll.
+Was war das bitte für eine Woche? Livemusik, dann die Nummer mit der Bücherei. Und als ob das alles noch nicht reicht — das Honkers brennt ab. Ich meine... WAS ZUR HÖLLE GEHT HIER AB?
 
-Pete Hollis' Hund ist wieder aufgetaucht. War drei Tage weg, wie immer, und Pete stand heute Morgen auf seiner Veranda und hat ihn einfach reinkommen lassen, ohne große Worte. Ich hab ihn gefragt, ob er sich keine Sorgen macht. Er sagt, er hat aufgehört. Klingt entspannt, wenn man's schnell sagt.
+Nach dem ganzen Stress bin ich mal etwas in mich gegangen und hab mir den [[BTX9000]] vorgenommen. Ich habe mich entschlossen, dieses jämmerliche Assistenzmodul rauszureißen. Ja, es hat mir geholfen, L0ST:FM mit Inhalt zu füllen, aber es hat mich auch ein Stück weit vom Weg abgebracht. Von nun an steht alles auf dem Sender unter dem Motto: Qualität statt Quantität, Herzblut über Schaltkreis. Das gilt nicht nur für das neue Zeug — ich werde auch den alten Krempel durch ehrliche Arbeit aus der Wortschmiede zwischen meinen Ohren ersetzen. Ich hoffe, die Idee gefällt euch so gut wie mir.
 
-Das Schlagloch auf dem Parkplatz beim Diner ist immer noch da. Gerry hat mir versprochen — persönlich, unter Augenkontakt — dass er sich drum kümmert. Das war im Oktober. Das Schlagloch entwickelt Charakter. Ich glaube, Gerry auch.
+Dazu wird es in den kommenden Tage ein großes Update geben, es wird sich also lohnen auch alte Seiten zu erforschen, die ihr bereits gelesen habt. 
 
-Morgen: bewölkt, sieben Grad, Wind aus Nordwest. Also wie heute. Wie gestern. Wie vermutlich übermorgen.
+Static out.
 
-Ich spiel jetzt was Ruhiges. Ihr verdient es. Meistens.
-
-_R.E.M. — „Half a World Away". Läuft durch bis zum Rauschen._
+*<Über krächzendes Rauschen und dem Klang einer schräg aufgesetzten Plattennadel fängt Ozzy an, **Children of the Grave** zu trällern.>*
 
 ## 1991-04-12
 
@@ -34,6 +33,7 @@ Also langsam reicht es mit den Sirenen, Mann. Euer Lieblings-DJ braucht schließ
 Wie es aussieht, hat Redfield [[1991-04-12 Honkers in Flammen|gestern Abend]] den größten Brand der letzten Jahre erlebt. Und so ernst, wie die Gesichter der Gesetzeshüter aussahen, blieb es wohl nicht bei einem bloßen Sachschaden.
 
 Noch ist nicht bekannt, was – oder wer – den Brand ausgelöst hat. Sollte es neue Erkenntnisse geben, erfahrt ihr sie natürlich als Erstes hier.
+
 ## 1991-04-10
 
 Mann, was für ein geiler Gig [[1991-04-09 Mr Cheese|gestern Abend]]! Mr Cheese hat dem Laden ordentlich eingeheizt – einfach Wahnsinn, wie sich das Nowhere entwickelt hat.
