@@ -1,7 +1,8 @@
 ---
 title: ★Samantha 'Sam' Foster
 aliases: []
-tags: []
+tags:
+  - people
 mocs:
   - "[[!Samantha Foster]]"
 draft: false
