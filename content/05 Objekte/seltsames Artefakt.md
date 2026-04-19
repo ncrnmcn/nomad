@@ -11,4 +11,3 @@ dg-publish: true
 date created:
 date modified:
 ---
-[[!die schwarze Klinge]]
