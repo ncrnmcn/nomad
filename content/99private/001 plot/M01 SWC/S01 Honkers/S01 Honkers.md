@@ -24,7 +24,7 @@ date modified: Monday, December 15th 2025, 10:06:33 pm
 
 [[!Honkers]] ist abgebrannt.Die drei großen Kneipen im Ort beschuldigen sich gegenseiting.
 
-[[!Emilio Sanchez]] vermutet entweder [[!Frank Franky Reece]] oder [[!Morgan Red Redding]] dahinter. Jetzt wo er den Laden führt hatten sie bestimmt Angst, dass er ihnen die restliche Kundschaft auch noch abschwatzt. 
+[[!Emilio Gialo]] vermutet entweder [[!Frank Franky Reece]] oder [[!Morgan Red Redding]] dahinter. Jetzt wo er den Laden führt hatten sie bestimmt Angst, dass er ihnen die restliche Kundschaft auch noch abschwatzt. 
 
 Frank und Morgan beschuldigen sich gegenseitig. Grund ihres Streits ist [[!Tiffany Redding]] - Frankys Ex und jetzige Frau von Morgan.
 

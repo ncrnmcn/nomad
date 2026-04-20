@@ -1,13 +1,15 @@
 ---
 title: seltsames Artefakt
 aliases:
+  - 
 tags:
   - objects
 mocs:
   - "[[!die schwarze Klinge]]"
-draft: false
+  - 
+draft: true
 enableToc: false
-dg-publish: true
+dg-publish: false
 date created:
 date modified:
 ---

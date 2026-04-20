@@ -1,7 +1,9 @@
 ---
 title: The Stillwater Circle
-aliases: []
-tags: [groups]
+aliases:
+  - Stillwater Circle
+tags:
+  - groups
 mocs: "[[!The Stillwater Circle]]"
 draft: false
 enableToc: false

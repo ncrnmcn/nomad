@@ -1,10 +1,10 @@
 ---
-title: ★Emilio Sanchez
+title: ★Emilio Gialo
 aliases: []
 tags:
   - people
 mocs:
-  - "[[!Emilio Sanchez]]"
+  - "[[!Emilio Gialo]]"
 draft: false
 enableToc: false
 dg-publish: true

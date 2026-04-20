@@ -11,4 +11,4 @@ dg-publish: true
 date created:
 date modified:
 ---
-In Redfield 
+Angeblich eine Lichtung mit einem kleinen See tief in [[Pinewood Ridge]]. Der [[The Stillwater Circle|Stillwater Circle]] soll sich hier aufhalten.
