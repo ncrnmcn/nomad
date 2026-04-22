@@ -1,7 +1,9 @@
 ---
 title: Billy Reed
-aliases: []
-tags: [people]
+aliases:
+  - Billy
+tags:
+  - people
 mocs: "[[!The Detention Knights]]"
 draft: false
 enableToc: false

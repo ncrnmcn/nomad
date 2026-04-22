@@ -17,6 +17,6 @@ Die Familia Flores, eine spanische Großfamilie, ist in Redfield vor allem für 
 - Großmutter Nonna (75)
 - Mutter Loretta (51)
 - Vater Pedro (54)
-- Tante Rita (48)
+- [[Rita Flores|Tante Rita]] (48)
 - Kinder: Timo (28), [[Maxima Max Flores|Maxima]] (23), Carla (17), Vito (26)
 - Cousins: Enna (14), Mateo (18), Martina (18), Álvaro (24)
