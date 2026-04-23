@@ -13,12 +13,12 @@ date modified: Monday, December 15th 2025, 10:06:33 pm
 
 # Honkers
 
-- [ ] Brandstelle [[!Chief Leonard Baker]] [[!Deputy Gabriel Davidson]] [[!Deputy Weston Smith]] [[!Deputy Jim Patterson]]
+- [x] Brandstelle [[!Chief Leonard Baker]] [[!Deputy Gabriel Davidson]] [[!Deputy Weston Smith]] [[!Deputy Jim Patterson]] ⏫ ✅ 2026-04-22
 - [x] Loris Leiche ✅ 2026-02-06
-- [ ] Hinweis von [[!Agent Cassandra]]
-- [ ] Obduktion [[!Barker Medical Center]] [[!Dr Emerson Fowler]]
-- [ ] [[!Father Martin]]
-- [ ] Billy is missing. Harold & Diane.
+- [x] Hinweis von [[!Agent Cassandra]] ✅ 2026-04-22
+- [x] Obduktion [[!Barker Medical Center]] [[!Dr Emerson Fowler]] ✅ 2026-04-22
+- [x] [[!Father Martin]] ✅ 2026-04-22
+- [x] Billy is missing. Harold & Diane. ✅ 2026-04-22
 
 ## Overview
 

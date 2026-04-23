@@ -1,7 +1,9 @@
 ---
 title: Redfield Police Department
-aliases: []
-tags: [locations]
+aliases:
+  - RPD
+tags:
+  - locations
 mocs:
   - "[[!Redfield Police Department]]"
 draft: false

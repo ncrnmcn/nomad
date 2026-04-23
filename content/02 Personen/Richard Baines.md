@@ -25,4 +25,4 @@ Seit 1956 im Bauamt des Rathauses tätig.
 Zwischen 1970 und 1978 immer wieder Probleme mit Alkohol und Drogen. 
 1979 dann der Nervenzusammenbruch und Verwahrung in Willow Springs.
 
-Er lebte in [[Baines' Haus|einem kleinen Haus]] am östlichen Rand der Stadt. Seit seiner Verwahrung in Willow Springs hat ein Investor das Haus gekauft. Seit dem steht es leer.
+Er lebte in [[Baines Haus|einem kleinen Haus]] am östlichen Rand der Stadt. Seit seiner Verwahrung in Willow Springs hat ein Investor das Haus gekauft. Seit dem steht es leer.

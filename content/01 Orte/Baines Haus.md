@@ -1,5 +1,5 @@
 ---
-title: Baines' Haus
+title: Baines Haus
 aliases: []
 tags: []
 mocs:

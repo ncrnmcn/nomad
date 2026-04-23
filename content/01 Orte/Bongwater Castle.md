@@ -4,6 +4,7 @@ aliases: []
 tags:
   - locations
 mocs:
+  - "[[!Bongwater Castle]]"
 draft: false
 enableToc: false
 dg-publish: true

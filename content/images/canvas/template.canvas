@@ -10,31 +10,9 @@
 			"width":260,
 			"height":60,
 			"color":"#809229"
-		},
-		{
-			"id":"8ffd88f7990b71bc",
-			"type":"text",
-			"text":"test",
-			"styleAttributes":{},
-			"x":-170,
-			"y":-120,
-			"width":260,
-			"height":60,
-			"color":"#809229"
 		}
 	],
-	"edges":[
-		{
-			"id":"67ceacda9d29940f",
-			"styleAttributes":{},
-			"toFloating":false,
-			"fromNode":"8ffd88f7990b71bc",
-			"fromSide":"bottom",
-			"toNode":"45b7267550d9efee",
-			"toSide":"top",
-			"color":"#7c8d2a"
-		}
-	],
+	"edges":[],
 	"metadata":{
 		"version":"1.0-1.0",
 		"frontmatter":{},
