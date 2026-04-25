@@ -1,14 +1,16 @@
 ---
 title: Debra Moore
-aliases: []
+aliases:
+  - Debbie
 tags:
   - people
 mocs:
   - "[[!The Detention Knights]]"
   - 
-draft: true
+draft: false
 enableToc: false
-dg-publish: false
+dg-publish: true
 date created:
 date modified:
 ---
+Die Crew befreit Debbie aus ihrem Haus und aus den Händen dessen, was einst ihre Mutter war—nur um sie kurz darauf in [[Bongwater Castle]] wieder zu verlieren. Tja.

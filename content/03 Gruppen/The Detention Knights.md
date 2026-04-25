@@ -1,7 +1,9 @@
 ---
 title: The Detention Knights
-aliases: []
-tags: [groups]
+aliases:
+  - Detention Knights
+tags:
+  - groups
 mocs: "[[!The Detention Knights]]"
 draft: false
 enableToc: false
