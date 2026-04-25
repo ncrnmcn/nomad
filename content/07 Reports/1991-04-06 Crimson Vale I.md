@@ -42,7 +42,7 @@ Plötzlich springt der Kofferraum auf und ein nackter Mann springt hervor. Die K
 
 Die Crew springt auf und versucht, den Verrückten wieder in den Kofferraum zu zwängen – außer Clint. Clint bleibt zunächst entspannt im Auto sitzen.
 
-Draußen liefert sich die illegale Nachbarschaftswache eine Schlägerei mit dem ///ZENSIERT///, bei der Victor ihm einen .45er-Betäubungsschuss verpassen möchte, aber stattdessen den hinteren Reifen des Wagens zerstört. Dann knallt Clint von der Rücksitzbank aus den Rückwärtsgang rein und überfährt den Typen einfach – an Coolness nur übertroffen von seiner „REDFIELD SUCKS“-Cap.
+Draußen liefert sich die illegale Nachbarschaftswache eine Schlägerei mit dem ///ZENSIERT///, bei der Victor ihm einen .45er-Betäubungsschuss verpassen möchte, aber stattdessen den hinteren Reifen des Wagens zerstört. Dann knallt Roxanne von der Rücksitzbank aus den Rückwärtsgang rein und überfährt den Typen einfach – an Coolness nur übertroffen von seiner „REDFIELD SUCKS“-Cap.
 
 Die Aktion gelingt fast auf Anhieb, aber auch die anderen nehmen etwas Schaden.
 
