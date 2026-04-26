@@ -38,37 +38,37 @@ Ihr habt euch zu einer illegalen Nachbarschaftswache zusammengeschlossen und sit
 
 ## ...and ACTION!
 
-Plötzlich springt der Kofferraum auf und ein nackter Mann springt hervor. Die Knights erinnern sich daran, dass es sich nur um den ///ZENSIERT/// handeln kann, den sie in der letzten Session überwältigt haben.
+Plötzlich springt der Kofferraum auf und ein nackter Mann springt hervor. Die Knights erinnern sich daran, dass es sich nur um den ████████████ ████████ handeln kann, den sie in der letzten Session überwältigt haben.
 
-Die Crew springt auf und versucht, den Verrückten wieder in den Kofferraum zu zwängen – außer Clint. Clint bleibt zunächst entspannt im Auto sitzen.
+Die Crew springt auf und versucht, den Verrückten wieder in den Kofferraum zu zwängen – außer Roxanne. Roxanne bleibt zunächst entspannt im Auto sitzen.
 
-Draußen liefert sich die illegale Nachbarschaftswache eine Schlägerei mit dem ///ZENSIERT///, bei der Victor ihm einen .45er-Betäubungsschuss verpassen möchte, aber stattdessen den hinteren Reifen des Wagens zerstört. Dann knallt Roxanne von der Rücksitzbank aus den Rückwärtsgang rein und überfährt den Typen einfach – an Coolness nur übertroffen von seiner „REDFIELD SUCKS“-Cap.
+Draußen liefert sich die illegale Nachbarschaftswache eine Schlägerei mit dem ████████████ ████████, bei der Victor ihm einen .45er-Betäubungsschuss verpassen möchte, aber stattdessen den hinteren Reifen des Wagens zerstört. Dann knallt Roxanne von der Rücksitzbank aus den Rückwärtsgang rein und überfährt den Typen einfach – an Coolness nur übertroffen von seiner „REDFIELD SUCKS“-Cap.
 
 Die Aktion gelingt fast auf Anhieb, aber auch die anderen nehmen etwas Schaden.
 
-Als der ///ZENSIERT/// so daliegt, sehen sie ein verdächtiges Funkeln aus seinem ///ZENSIERT///. Sie sehen sich die Sache näher an und entdecken einen ///ZENSIERT///, den sie umgehend entfernen. Woraufhin dem ///ZENSIERT/// quasi die Luft ausgeht und er daliegt wie ein leerer Luftballon.
+Als der ███████████ ████████ so daliegt, sehen sie ein verdächtiges Funkeln aus seinem █████. Sie sehen sich die Sache näher an und entdecken einen ████████, den sie umgehend entfernen. Woraufhin dem ███████████ ████████ quasi die Luft ausgeht und er daliegt wie ein leerer Luftballon.
 
-Der ///ZENSIERT/// hat die Form eines Zeppelins und trägt den Namen BEHINDENBURG. Ein famoses Wortspiel des GM.
+Der ████████ hat die Form eines Zeppelins und trägt den Namen BEHINDENBURG. Ein famoses Wortspiel des GM.
 
-Der ///ZENSIERT///, den sie aus seinem ///ZENSIERT/// gezogen haben, ist enorm. Die Crew entdeckt dort einen Namen — Denzel D. Dickens — den Besitzer des lokalen Pawnshops.
+Der ████████, den sie aus seinem █████ gezogen haben, ist enorm. Die Crew entdeckt dort einen Namen — Denzel D. Dickens — den Besitzer des lokalen Pawnshops.
 
-Noch bevor sie diesen bizarren Hinweis ganz verdaut haben, kommt ein Streifenwagen mit Sirenen angedonnert. Es ist Officer ///ZENSIERT///. Er fragt mit seiner debilen Stimme, was hier los ist, und will eigentlich gleich wieder gehen, um zuhause etwas ///ZENSIERT/// zu schauen. Doch Roxanne holt ihre M60 aus dem Kofferraum und ballert den widerlichen Typen in tausend Stücke — samt seinem armseeligen Streifenwagen, der nun brennend auf dem Parkplatz steht.
+Noch bevor sie diesen bizarren Hinweis ganz verdaut haben, kommt ein Streifenwagen mit Sirenen angedonnert. Es ist Officer ████████. Er fragt mit seiner debilen Stimme, was hier los ist, und will eigentlich gleich wieder gehen, um zuhause etwas ████████████ zu schauen. Doch Roxanne holt ihre M60 aus dem Kofferraum und ballert den widerlichen Typen in tausend Stücke — samt seinem armseeligen Streifenwagen, der nun brennend auf dem Parkplatz steht.
 
-Doch der Crew fällt ein, dass sie noch einen Reifen brauchen. Also packen Victor und Clint ihre ///ZENSIERT/// aus und ///ZENSIERT/// auf den brennenden Reifen, während sie sich gegenseitig zärtlich beäugen.
+Doch der Crew fällt ein, dass sie noch einen Reifen brauchen. Also packen Victor und Clint ihre ████████ aus und ██████ auf den brennenden Reifen, während sie sich gegenseitig zärtlich beäugen.
 
-Der Reifen ist schnell montiert und unsere Helden rasen in die Stadt. Noch bevor Denzel D. Dickens weiß, was los ist, knallen sie ihm den ///ZENSIERT/// aus dem ///ZENSIERT/// des ///ZENSIERT/// auf den Tisch.
+Der Reifen ist schnell montiert und unsere Helden rasen in die Stadt. Noch bevor Denzel D. Dickens weiß, was los ist, knallen sie ihm den ████████ aus dem █████ des ███████████ ████████ auf den Tisch.
 
-„SAG DIE WAHRHEIT!“ ist das Letzte, was er hört, bevor sich eine absurde Szene vor seinen Augen abspielt. Victor gibt einen Warnschuss mitten in sein Gesicht ab; durch seltsame Kräfte nimmt die Kugel eine andere Flugbahn. Plötzlich beginnt der ///ZENSIERT/// zu levitieren, fliegt durch den Laden und hält genau auf Victors ///ZENSIERT/// zu. Dieser dreht sich im letzten Moment um, und die BEHINDENBURG verschwindet bis zum Anschlag in seinem Rachen. Schade.
+„SAG DIE WAHRHEIT!“ ist das Letzte, was er hört, bevor sich eine absurde Szene vor seinen Augen abspielt. Victor gibt einen Warnschuss mitten in sein Gesicht ab; durch seltsame Kräfte nimmt die Kugel eine andere Flugbahn. Plötzlich beginnt der ████████ zu levitieren, fliegt durch den Laden und hält genau auf Victors █████ zu. Dieser dreht sich im letzten Moment um, und die BEHINDENBURG verschwindet bis zum Anschlag in seinem Rachen. Schade.
 
-Denzel D. Dickens verrät den Spielern, dass er den ///ZENSIERT/// von Jimmy Bob Jenkins hatte. Er lebt zurückgezogen mit seiner ///ZENSIERT/// Familie auf der Schweinefarm am Stadtrand.
+Denzel D. Dickens verrät den Spielern, dass er den ████████ von Jimmy Bob Jenkins hatte. Er lebt zurückgezogen mit seiner ████████████████ Familie auf der Schweinefarm am Stadtrand.
 
 Aus Dankbarkeit für seine Kooperation zahlt Victor die Rechnung mit Blei.
 
-Sie wollen eigentlich nur ins Auto einsteigen, doch ein gruseliger, rotäugiger Waschbär sitzt am Steuer. Victor kann ihn zwar davon überzeugen, mit ihnen zu kommen, woraufhin dieser sich auf die Rücksitzbank setzt und anschnallt – aber das ist Clint nicht gut genug. Er setzt sich auf ihn und lässt den Kopf des Tieres in seinem ///ZENSIERT/// verschwinden.
+Sie wollen eigentlich nur ins Auto einsteigen, doch ein gruseliger, rotäugiger Waschbär sitzt am Steuer. Victor kann ihn zwar davon überzeugen, mit ihnen zu kommen, woraufhin dieser sich auf die Rücksitzbank setzt und anschnallt – aber das ist Clint nicht gut genug. Er setzt sich auf ihn und lässt den Kopf des Tieres in seinem █████ verschwinden.
 
 Auf geht es zur Schweinefarm. Dickens hat nicht übertrieben: Kaum stellen sie den Wagen ab, stürmen ein paar rotäugige Kinder aus dem Haus. Roxanne zögert nicht, nimmt ihre M60 und durchsiebt sie.
 
-Sie betreten das verwahrloste Haus und hören obszöne Geräusche aus einem der Zimmer. Da sind wohl zwei am ///ZENSIERT///. Sie spähen durch die Tür und sehen Jimmy Bob Jenkins, wie er die ///ZENSIERT/// aus einer ///ZENSIERT/// ///ZENSIERT///. Kurzerhand zerren sie ihn aus dem Raum, und Victors ///ZENSIERT/// nimmt den Platz von Jimmys ///ZENSIERT/// ein. Zum Glück ist die ///ZENSIERT/// schon gut ///ZENSIERT/// und bemerkt nicht, dass sie nun von einem anderen ///ZENSIERT/// ///ZENSIERT/// wird. Es ist für beide recht schön.
+Sie betreten das verwahrloste Haus und hören obszöne Geräusche aus einem der Zimmer. Da sind wohl zwei am ██████. Sie spähen durch die Tür und sehen Jimmy Bob Jenkins, wie er die ███████ aus einer ██████ ████████ ██████. Kurzerhand zerren sie ihn aus dem Raum, und Victors ███████ nimmt den Platz von Jimmys ███████ ein. Zum Glück ist die ██████ schon gut ██████████ und bemerkt nicht, dass sie nun von einem anderen ███████ ███████ wird. Es ist für beide recht schön.
 
 Draußen geben sie Jimmy ein paar aufs Maul, bevor dieser einen verknitterten Zettel aus seiner Hose zieht, die noch um seine Knöchel baumelt.
 
