@@ -14,3 +14,5 @@ Was auch immer es war, das Hardwick bei der Erschließung des Silver Creek Valle
 
 Von den Resten seines Körpers scheint eine seltsame Energie auszugehen, begleitet von einem widerlichen roten Licht.
 
+Eine Gruppe von Menschen versucht, ihm zu seiner ursprünglichen Macht zurückzuverhelfen.
+

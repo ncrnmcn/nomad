@@ -14,7 +14,7 @@ date modified: Sunday, December 21st 2025, 11:51:24 am
 
 ## Überblick
 
-Redfield ist eine kleine Stadt im Silver Creek County im Norden Vermonts. Der Ort liegt am Silver Creek und ist von bewaldeten Hügeln und landwirtschaftlicher Nutzfläche umgeben. Die Region ist relativ dünn besiedelt und nicht besonders gut erschlossen.
+Redfield ist eine kleine Stadt im Silver Creek Valley im Norden Vermonts. Der Ort liegt am Silver Creek und ist von bewaldeten Hügeln und landwirtschaftlicher Nutzfläche umgeben. Die Region ist relativ dünn besiedelt und nicht besonders gut erschlossen.
 
 ## Geschichte
 

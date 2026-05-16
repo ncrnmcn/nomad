@@ -4,7 +4,7 @@ aliases: []
 tags:
   - rituals
 mocs:
-  - "[[!Waldfrieden]]"
+  - "[[!Wegfrieden]]"
 draft: false
 enableToc: false
 dg-publish: true

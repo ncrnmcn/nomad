@@ -9,6 +9,13 @@ dg-publish: true
 date created:
 date modified:
 ---
+
+[[1991-04-14c Baines Haus]]  
+Die Crew verlässt Sams Apartment, folgt Cass’ Spur zu einer verwüsteten Hütte ohne Hinweise auf Cass’ Verbleib, findet dort Akten, eine Karte und Überwachungsbilder einer dürre Person sowie Hinweise auf Baines Haus, rüstet sich aus und fährt dorthin, wo sie im Keller nach einer chaotischen Konfrontation mit einem verwahrlosten Mann namens Barry erfahren, dass Richard Baines ein Wächter was für das Ritual nötig ist, um den Weg zum Stillwater Circle zu finden.
+
+[[1991-04-06b Crimson Vale II]]  
+Die Crew verhört Jimmy Bob Jenkins, tötet ihn dabei, jagt und eliminiert seine Frau, erschlägt Reverend Miller in der First Church of Crimson Vale nach einem eskalierenden Kampf, findet dort Hinweise auf ein verborgenes System und löst mit Jimmy Bobs Notizen eine übernatürliche Reaktion aus, die Billys Bus in rotes Licht taucht.
+
 [[1991-04-06 Crimson Vale I]]  
 Die Detention Knights stürzen sich in Crimson Vale in eine groteske Eskalation aus Gewalt, Absurdität und okkulten Hinweisen, während sie einer dunklen Bruderschaft und ihrer verdorbenen Spur durch Wahnsinn und Blut folgen.
 

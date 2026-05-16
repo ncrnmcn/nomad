@@ -17,4 +17,4 @@ Crimson Vale ist eine fiktive Stadt im Silver Creek Valley und der Handlungsort 
 - Seraphina Goldstein ([[Lori Davidson]])
 - Victor Maran ([[Colin Fraser]])
 - Roxanne Steele ([[Debra Moore]])
-- Clint Murdoch ([[Thomas Yates]])
+- Clint Murdoch ([[Thomas Yates]])o
