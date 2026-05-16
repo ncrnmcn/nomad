@@ -1,7 +1,8 @@
 ---
 title: 1991-04-14 Losing Debbie
 aliases: []
-tags: []
+tags:
+  - reports
 mocs:
 draft: false
 enableToc: false

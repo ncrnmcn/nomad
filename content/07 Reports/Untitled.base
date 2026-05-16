@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "07 Reports"
+    order:
+      - file.name
+      - tags

@@ -1,7 +1,8 @@
 ---
 title: 1991-04-12d Redfield Marksman
 aliases: []
-tags: []
+tags:
+  - reports
 mocs:
 draft: false
 enableToc: false
