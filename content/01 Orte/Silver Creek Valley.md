@@ -1,7 +1,8 @@
 ---
 title: Silver Creek Valley
 aliases: []
-tags: []
+tags:
+  - locations
 mocs:
 draft: false
 enableToc: false

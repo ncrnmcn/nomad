@@ -1,7 +1,8 @@
 ---
 title: dürre Person
 aliases: []
-tags: []
+tags:
+  - people
 mocs:
 draft: false
 enableToc: false

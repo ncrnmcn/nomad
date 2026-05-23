@@ -1,7 +1,8 @@
 ---
 title:
 aliases: []
-tags: []
+tags:
+  - locations
 mocs:
   - "[[!Crowley Public Library]]"
 draft: true

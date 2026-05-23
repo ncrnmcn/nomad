@@ -1,7 +1,8 @@
 ---
 title: Willow Springs
 aliases: []
-tags: []
+tags:
+  - locations
 mocs:
   - "[[!Willow Springs]]"
 draft: false

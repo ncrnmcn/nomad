@@ -1,0 +1,24 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "01 Orte"
+    order:
+      - file.name
+      - draft
+      - enableToc
+      - dg-publish
+      - tags
+      - mocs
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: draft
+        direction: ASC
+      - property: file.tags
+        direction: DESC
+      - property: enableToc
+        direction: ASC
+    columnSize:
+      file.tags: 1327

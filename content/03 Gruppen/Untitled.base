@@ -1,0 +1,13 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.folder == "03 Gruppen"
+    order:
+      - file.name
+      - tags
+      - enableToc
+      - draft
+      - dg-publish
+      - mocs

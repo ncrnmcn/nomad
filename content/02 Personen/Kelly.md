@@ -1,7 +1,8 @@
 ---
 title:
 aliases: []
-tags: []
+tags:
+  - people
 mocs:
 draft: true
 enableToc: false
