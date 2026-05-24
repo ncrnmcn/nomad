@@ -3,9 +3,9 @@ title: Join us!
 aliases: []
 tags: []
 mocs:
-draft: true
+draft: false
 enableToc: false
-dg-publish: false
+dg-publish: true
 date created:
 date modified:
 ---
