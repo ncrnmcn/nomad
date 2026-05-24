@@ -14,7 +14,7 @@ Du hast donnerstagabends nichts vor und wolltest schon immer mal Pen & Paper spi
 Das trifft sich gut — denn Hirschaids bedenklichste Rollenspielgruppe sucht Verstärkung.
 
 > [!info] Was bisher geschah...
-> **Redfield 1991** // Eine kleine Stadt mit großen Geheimnisse — und einem beachtlichen Bodycount.
+> **Redfield 1991** // Eine kleine Stadt mit großen Geheimnissen — und einer beachtlichen Zahl von Mordfällen.
   Gabe, Emilio und Sam sind mittendrin — nicht, weil sie es wollten, sondern weil [[Redfield]] die Sorte Ort ist, aus der man nicht einfach rauskommt, wenn man einmal hinter den Vorhang geblickt hat. Das [[Honkers]] ist abgebrannt. [[Lori Davidson|Lori]] ist tot. [[Billy Reed|Billy]] hat seinen Verstand halb verloren. Und [[Cass]]? Verschwunden — von ihrem schwarzen SUV keine Spur.
   Was haben unsere drei Helden bisher: eine ordentliche Messerwunde in Gabes Schulter, einen halbgaren Deal mit der Mafia, apokalyptische Träume, die niemand bestellt hat — und einen Namen. Der [[The Stillwater Circle|Stillwater Circle]]. Irgendwo im Wald von [[Pinewood Ridge]]. Dort, hoffen sie, gibt es endlich ein Antworten.
   Was sie nicht haben: genug Leute.
