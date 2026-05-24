@@ -1,5 +1,5 @@
 ---
-title: Join us!
+title: Join Us
 aliases: []
 tags: []
 mocs:
