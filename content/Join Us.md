@@ -1,5 +1,5 @@
 ---
-title: Join us
+title: Join Us
 aliases: []
 tags: []
 mocs:
@@ -21,6 +21,6 @@ Das trifft sich gut — denn Hirschaids bedenklichste Rollenspielgruppe sucht Ve
   Redfield ist Kleinstadthorror in den frühen Neunzigern. Okkultes, Gewalt, echte Konsequenzen — und schräge Charaktere, denen man trotz ihrer Macken irgendwie die Daumen drückt.
   [[★Gabriel 'Gabe' Davidson|Gabe]], [[★Emilio Gialo|Emilio]] und [[★Samantha 'Sam' Foster|Sam]] könnten Verstärkung gebrauchen. Vielleicht bist du das.
 
-Inspiriert von Twin Peaks, Akte X, Stranger Things und jeder Menge kultigen Achtziger-Trash. Gespielt wird ein [Delta Green](https://www.delta-green.com/) / [Call of Cthulhu ](https://www.chaosium.com/call-of-cthulhu-rpg/)Hack.
+Inspiriert von Twin Peaks, Akte X, Stranger Things und jeder Menge kultigen Achtziger-Trash. Gespielt wird ein [Delta Green](https://www.delta-green.com/) / [Call of Cthulhu](https://www.chaosium.com/call-of-cthulhu-rpg/) Hack.
 
 Falls du dich jetzt kaum noch halten kannst, wovon wir stark ausgehen — [dann meld dich einfach](mailto:okkultra@proton.me).

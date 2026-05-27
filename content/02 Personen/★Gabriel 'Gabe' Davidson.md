@@ -1,6 +1,7 @@
 ---
 title: ★Gabriel Davidson
-aliases: []
+aliases:
+  - Gabe
 tags:
   - people
 mocs:

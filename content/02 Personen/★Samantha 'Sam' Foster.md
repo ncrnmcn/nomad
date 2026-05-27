@@ -1,6 +1,7 @@
 ---
 title: ★Samantha 'Sam' Foster
-aliases: []
+aliases:
+  - Sam
 tags:
   - people
 mocs:

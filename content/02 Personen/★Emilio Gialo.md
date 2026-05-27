@@ -1,6 +1,7 @@
 ---
 title: ★Emilio Gialo
-aliases: []
+aliases:
+  - Emilio
 tags:
   - people
 mocs:

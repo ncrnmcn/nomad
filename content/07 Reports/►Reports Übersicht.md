@@ -9,6 +9,8 @@ dg-publish: true
 date created:
 date modified:
 ---
+[[1991-04-15 Die Jagd]]  
+Nach einer chaotischen, grotesk überzogenen Jagd im Wald kehrt die Crew mit ihrer erbärmlichen Beute zu Gabes Haus zurück, wo ein improvisiertes Grillfest, sedierter Wahnsinn und verdächtige Beobachtungen den Abend beschließen.
 
 [[1991-04-14c Baines Haus]]  
 Die Crew verlässt Sams Apartment, folgt Cass’ Spur zu einer verwüsteten Hütte ohne Hinweise auf Cass’ Verbleib, findet dort Akten, eine Karte und Überwachungsbilder einer dürre Person sowie Hinweise auf Baines Haus, rüstet sich aus und fährt dorthin, wo sie im Keller nach einer chaotischen Konfrontation mit einem verwahrlosten Mann namens Barry erfahren, dass Richard Baines ein Wächter was für das Ritual nötig ist, um den Weg zum Stillwater Circle zu finden.
