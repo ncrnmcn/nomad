@@ -9,6 +9,9 @@ dg-publish: true
 date created:
 date modified:
 ---
+[[1991-04-16 Gabe wartet auf den Bus]]  
+Gabe taumelt durch einen benommenen, konfliktreichen Tag zwischen seltsamer Begegnung an der Bushaltestelle, routinemäßiger Polizeiarbeit im RPD und einem gewalttätigen Ausraster gegen Weston, während Sam und Emilio sich parallel um Beute und das Blue Nowhere kümmern und der Abend damit endet, dass Gabe Trudy zunehmend verwirrt seine Wahrnehmung der Ereignisse offenbart.
+
 [[1991-04-15 Die Jagd]]  
 Nach einer chaotischen, grotesk überzogenen Jagd im Wald kehrt die Crew mit ihrer erbärmlichen Beute zu Gabes Haus zurück, wo ein improvisiertes Grillfest, sedierter Wahnsinn und verdächtige Beobachtungen den Abend beschließen.
 
