@@ -6,9 +6,13 @@ mocs:
 draft: false
 enableToc: true
 dg-publish: true
-date created:
-date modified:
+date created: Sunday, June 7th 2026, 11:46:54 am
+date modified: Thursday, June 25th 2026, 8:30:58 am
 ---
+
+[[1991-04-17 Billy]]  
+Nachdem ein belastendes Beweisstück alte Spannungen neu entfacht, entscheidet sich die Gruppe, dringendere Fragen in den Vordergrund zu stellen und folgt einer rätselhaften Spur tief in einen Wald, der sich zunehmend jeder bekannten Logik entzieht. Dort werden sie mit verstörenden Phänomenen, tödlichen Gefahren und psychischen Belastungen konfrontiert, während ihre Entschlossenheit auf die Probe gestellt wird und die Suche nach Antworten sie schließlich an einen Ort führt, an dem möglicherweise erstmals jemand bereit ist, ihre Fragen zu beantworten.
+
 [[1991-04-16 Gabe wartet auf den Bus]]  
 Gabe taumelt durch einen benommenen, konfliktreichen Tag zwischen seltsamer Begegnung an der Bushaltestelle, routinemäßiger Polizeiarbeit im RPD und einem gewalttätigen Ausraster gegen Weston, während Sam und Emilio sich parallel um Beute und das Blue Nowhere kümmern und der Abend damit endet, dass Gabe Trudy zunehmend verwirrt seine Wahrnehmung der Ereignisse offenbart.
 
