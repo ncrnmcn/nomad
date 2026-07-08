@@ -9,6 +9,19 @@ dg-publish: true
 date created: Sunday, December 21st 2025, 12:37:01 pm
 date modified: Saturday, April 18th 2026, 11:25:25 am
 ---
+## 1991-04-17
+
+**Redfield? Was war das bitte für eine Woche!? Brände. Explosionen. Und sogar Tote.**
+
+So viel Action – und das ausgerechnet bei uns. Unglaublich.
+
+Ich hoffe allerdings, dass sich die Wogen jetzt erst einmal glätten. Irgendetwas liegt in der Luft ... ein anderer Groove. Und glaubt mir: Sowas spüre ich.
+
+Aber genug davon. Jetzt gibt's erst mal was auf die Ohren, damit ihr auf andere Gedanken kommt.
+
+_♪ A long, long time ago..._  
+_I can still remember how that music_  
+_Used to make me smile... ♪_
 
 ## 1991-04-14
 

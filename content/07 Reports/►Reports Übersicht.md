@@ -10,6 +10,9 @@ date created: Sunday, June 7th 2026, 11:46:54 am
 date modified: Thursday, June 25th 2026, 8:30:58 am
 ---
 
+[[1991-04-17b The Stillwater Circle]]
+Dr. Carter enthüllt der Crew die wahre Geschichte des Silver Creek Valley, den Ursprung der außerweltlichen Bedrohung und den jahrhundertealten Kampf des Zirkels gegen Hardwick, bevor sie nach ihrer Rückkehr aus dem Wald von Chief Baker festgenommen wird.
+
 [[1991-04-17 Billy]]  
 Nachdem ein belastendes Beweisstück alte Spannungen neu entfacht, entscheidet sich die Gruppe, dringendere Fragen in den Vordergrund zu stellen und folgt einer rätselhaften Spur tief in einen Wald, der sich zunehmend jeder bekannten Logik entzieht. Dort werden sie mit verstörenden Phänomenen, tödlichen Gefahren und psychischen Belastungen konfrontiert, während ihre Entschlossenheit auf die Probe gestellt wird und die Suche nach Antworten sie schließlich an einen Ort führt, an dem möglicherweise erstmals jemand bereit ist, ihre Fragen zu beantworten.
 
