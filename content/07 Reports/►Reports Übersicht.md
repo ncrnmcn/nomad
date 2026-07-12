@@ -10,7 +10,8 @@ date created: Sunday, June 7th 2026, 11:46:54 am
 date modified: Thursday, June 25th 2026, 8:30:58 am
 ---
 ## SEASON 2
-
+[[1991-04-15 Dead Dog Blues]]  
+Die Crew folgt nach einigen chaotischen Ermittlungen bei First Class Salvage einer neuen Spur: Ein Mitarbeiterausweis von Rita Flores führt sie von Billys Schulbus direkt zur Sunny Hills Seniorenresidenz.
 
 ## SEASON 1
 
