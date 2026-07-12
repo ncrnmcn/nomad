@@ -10,7 +10,7 @@ dg-publish: true
 date created:
 date modified:
 ---
-Am nördlich Stadtrand Redfields, beherbergt ein unscheinbares einstöckiges weißes Gebäude den **Redfield Marksman** - seit fast sieben Jahren führen [[Ethan Morin]] und [[Jeanette Gigi Archambault]] den Schützenverein.
+Am nördlich Stadtrand Redfields, beherbergt ein unscheinbares einstöckiges weißes Gebäude den **Redfield Marksman** - seit fast sieben Jahren führen [[★Ethan Morin]] und [[★Jeanette Gigi Archambault]] den Schützenverein.
 
 Eine klassische Doppelflügeltür führt in eine kleine Kneipe, die das Herzstück der Anlage ist. Hier findet man die nummerierten Waffenschränke der Mitglieder und einen großen alten Waffenschrank, in dem Gigi und Ethan ein paar Pistolen und Gewehre in Szene gesetzt haben. 
 

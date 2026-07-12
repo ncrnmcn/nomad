@@ -10,7 +10,7 @@ dg-publish: true
 date created: Friday, March 20th 2026, 6:31:57 pm
 date modified: Friday, March 20th 2026, 6:36:43 pm
 ---
-Am nördlichen Stadtrand Redfields beherbergt ein unscheinbares, einstöckiges, weißes Gebäude den [[Redfield Marksman]]. Seit fast sieben Jahren führen [[Ethan Morin]] und [[Jeanette Gigi Archambault]] den Schützenverein.
+Am nördlichen Stadtrand Redfields beherbergt ein unscheinbares, einstöckiges, weißes Gebäude den [[Redfield Marksman]]. Seit fast sieben Jahren führen [[★Ethan Morin]] und [[★Jeanette Gigi Archambault]] den Schützenverein.
 
 Nachdem Garry Rowlins den Marksman über mehr als drei Jahrzehnte hinweg mit kaum mehr als den nötigsten Renovierungen über Wasser gehalten hatte, haben Gigi und Ethan dem Ort neues Leben eingehaucht.
 

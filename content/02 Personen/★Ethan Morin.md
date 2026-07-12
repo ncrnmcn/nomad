@@ -1,6 +1,7 @@
 ---
-title: Ethan Morin
-aliases: []
+title: ★Ethan Morin
+aliases:
+  - Ethan
 tags:
   - people
 mocs:

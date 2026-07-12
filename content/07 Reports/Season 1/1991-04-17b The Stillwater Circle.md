@@ -38,7 +38,7 @@ Das war erst einmal eine ganze Menge, die verarbeitet werden musste.
 
 Anschließend führt Carter die Gruppe zu einem weiteren Zelt. Dort liegt Owen im Koma, während Moira an seiner Seite wacht. Owen hatte versucht, den Wald zu verlassen – doch er war bereits zu lange dort gewesen.
 
-Danach bringt Carter sie zu einer Lichtung, auf der sich eines der sieben Siegel befindet. Als Sam den Stein betrachtet, überkommt ihn eine kurze Vision: Er sieht Owen, gefangen im Inneren des Monolithen.
+Danach bringt Carter sie zu einer Lichtung, auf der sich eines der sieben Siegel befindet. Als Sam den Stein betrachtet, überkommt sie eine kurze Vision: Sie sieht Owen, gefangen im Inneren des Monolithen.
 
 Zurück im Zelt erklärt Moira als Einzige, was Sam erlebt hat. Sie spricht in ihren Träumen mit Owen.
 

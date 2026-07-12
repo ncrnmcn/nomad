@@ -9,6 +9,10 @@ dg-publish: true
 date created: Sunday, June 7th 2026, 11:46:54 am
 date modified: Thursday, June 25th 2026, 8:30:58 am
 ---
+## SEASON 2
+
+
+## SEASON 1
 
 [[1991-04-17b The Stillwater Circle]]
 Dr. Carter enthüllt der Crew die wahre Geschichte des Silver Creek Valley, den Ursprung der außerweltlichen Bedrohung und den jahrhundertealten Kampf des Zirkels gegen Hardwick, bevor sie nach ihrer Rückkehr aus dem Wald von Chief Baker festgenommen wird.
