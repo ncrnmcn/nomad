@@ -10,6 +10,10 @@ date created: Sunday, June 7th 2026, 11:46:54 am
 date modified: Thursday, June 25th 2026, 8:30:58 am
 ---
 ## SEASON 2
+
+[[1991-04-15b Black Star Brewery]]  
+Gigi, Ethan und Roger folgen Ritas Spur von First Class Salvage nach Sunny Hills, entdecken über Milton Grames und die Black Star Brewery die Verbindung zu Dale Cutter, besiegen das übernatürliche Wesen, retten Rita und erfahren, dass Cassandra vermisst wird und die Wahrheit über Redfield möglicherweise bei den Abenaki in Odanak liegt.
+
 [[1991-04-15 Dead Dog Blues]]  
 Die Crew folgt nach einigen chaotischen Ermittlungen bei First Class Salvage einer neuen Spur: Ein Mitarbeiterausweis von Rita Flores führt sie von Billys Schulbus direkt zur Sunny Hills Seniorenresidenz.
 
