@@ -1,14 +1,15 @@
 ---
-title:
+title: 1991-04-15 Dead Dog Blues
 aliases: []
-tags: []
+tags: [reports]
 mocs:
 draft: false
 enableToc: false
 dg-publish: true
 date created: Sunday, July 12th 2026, 10:50:18 am
-date modified: Sunday, July 12th 2026, 10:55:33 am
+date modified: Sunday, July 19th 2026, 10:25:49 am
 ---
+
 Ein ruhiger Montag im [[Redfield Marksman]]. [[★Ethan Morin|Ethan]] und [[★Jeanette Gigi Archambault|Gigi]] sind gerade dabei, ihre ganz spezielle Version von Logik auf die Geschehnisse der letzten Tage anzuwenden, als ganz unverhofft [[★Roger B. Murray|Roger]] dazustößt. Er ist jetzt also auch dabei.
 
 [[Deputy Weston Smith]] und Gabes Ehefrau [[Trudy]] schlendern gemeinsam herein, während die drei Vollblut-Journalisten gerade den ominösen Schuppen auf Rang 13 begutachten. Natürlich werden sie dabei erfolgreich daran gehindert, einfach Zeit miteinander zu verbringen – stattdessen müssen sie sich Fragen zu Gabes Befinden und den seltsamen Vorfällen der letzten Woche stellen lassen.
